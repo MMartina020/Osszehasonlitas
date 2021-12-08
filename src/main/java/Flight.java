@@ -2,7 +2,7 @@ public class Flight {
 private String company;
 private String departure;
 private String destination;
-private int minute;
+private double minute;
 private int seats;
 
     public Flight(String row) {
@@ -51,11 +51,11 @@ private int seats;
         this.destination = destination;
     }
 
-    public int getMinute() {
+    public double getMinute() {
         return minute;
     }
 
-    public void setMinute(int minute) {
+    public void setMinute(double minute) {
         this.minute = minute;
     }
 
