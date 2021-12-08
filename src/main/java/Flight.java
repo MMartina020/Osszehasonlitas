@@ -1,4 +1,4 @@
-public class Flight implements Comparable<Flight>{
+public class Flight {
 private String company;
 private String departure;
 private String destination;
@@ -66,8 +66,5 @@ private int seats;
     public void setSeats(int seats) {
         this.seats = seats;
     }
-    @Override
-    public int compareTo(Flight o) {
-        return this.seats -o.seats;
-    }
+
 }
