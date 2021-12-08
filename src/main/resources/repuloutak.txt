@@ -1,0 +1,2000 @@
+Vanilla Air:Fehérgyarmat:Camberra:627:26
+French bee:Pátroha:Moszkva:440:26
+Edelweiss Air:Ljubljana:Alma-ata:926:140
+Air Namibia:Róma:Rio de Janeiro:397:198
+Air Tahiti Nui:Fehérgyarmat:Rejkyawik:80:209
+Regional Express:Fehérgyarmat:Pátroha:643:37
+Etihad:Soul:Bora-bora:288:208
+Thomas Cook Airlines:Fokváros:Bora-bora:196:109
+Air Serbia:Pátroha:Alma-ata:61:88
+Alitalia:Fehérgyarmat:Párizs:231:212
+Dragonair:Rejkyawik:Kék:67:191
+Alaska Airlines:Kék:Róma:708:74
+Transavia Airlines:London:New York:309:14
+Saudia:Fokváros:Camberra:1007:222
+TUIfly:Camberra:Fényeslitke:441:94
+bmi regional:Budapest:Fokváros:637:172
+Kenya Airways:Párizs:New White Lake City:435:107
+Garuda Indonesia:London:Toronto:202:22
+Finnair:Fehérgyarmat:Rejkyawik:352:195
+flydubai:Miami:Fokváros:429:191
+WestJet:Toronto:Camberra:773:140
+Jet Airways:Budapest:Rio de Janeiro:528:190
+Vistara:Pátroha:Fényeslitke:1014:167
+SWISS:New York:San Francicso:300:142
+Air Austral:Toronto:Rio de Janeiro:1060:195
+Volaris:Kék:Ljubljana:1244:119
+Norwegian Air Shuttle:New York:Los Angeles:148:192
+Air Caraibes:Tokio:Bora-bora:827:63
+Air Vanuatu:Toronto:Rio de Janeiro:1081:142
+AirAsia X:Moszkva:Alma-ata:1064:176
+LATAM Chile:Miami:New York:1107:244
+Gulf Air:London:Róma:1008:14
+Edelweiss Air:San Francicso:Los Santos:1021:217
+Hong Kong Airlines:Toronto:Tokio:218:168
+Oman Air:Rio de Janeiro:London:306:79
+Air Vanuatu:Alma-ata:Toronto:790:181
+Avianca:Los Santos:Rejkyawik:879:242
+Lufthansa:Róma:London:574:187
+Pakistan International Airlines:London:Budapest:1040:70
+Aerolineas Argentinas:Los Santos:Róma:1252:101
+EVA Air:Los Angeles:Los Angeles:670:154
+Alaska Airlines:Budapest:Budapest:1007:160
+Azores Airlines:Tokio:Toronto:590:186
+Air New Zealand:Fokváros:Soul:299:9
+Aerolineas Argentinas:Rio de Janeiro:Budapest:355:247
+Tunis Air:Toronto:New White Lake City:161:111
+IndiGo Airlines:Kék:Camberra:544:129
+Allegiant:Miami:Pátroha:75:101
+Air Vanuatu:New White Lake City:Los Angeles:1170:162
+Virgin Atlantic:Pátroha:Los Santos:1202:129
+Air Namibia:Bora-bora:San Francicso:282:13
+Iberia:Róma:Rejkyawik:1154:12
+Air Namibia:Pátroha:Fényeslitke:398:243
+Azul:Los Santos:Pátroha:300:80
+Vistara:Los Angeles:Bora-bora:958:205
+Aerolineas Argentinas:Rio de Janeiro:Rejkyawik:697:116
+Virgin Australia:Camberra:Los Santos:1177:63
+Air Transat:Fehérgyarmat:Budapest:804:162
+Icelandair:Kék:Los Angeles:903:233
+IndiGo Airlines:Budapest:New White Lake City:393:237
+TUIfly:New York:Fokváros:441:143
+Ukraine International:London:Kék:384:46
+Virgin Atlantic:Tokio:Fehérgyarmat:1147:47
+S7 Airlines:Los Angeles:Róma:1080:129
+Fiji Airways:Tokio:Tokio:833:80
+Air Transat:Budapest:Pátroha:418:171
+WOW air:London:Alma-ata:924:236
+China Southern:Párizs:Rejkyawik:982:142
+Eurowings:Miami:Miami:727:162
+Thomson:Rejkyawik:Los Angeles:401:78
+Tunis Air:Párizs:Budapest:1149:169
+Nok Air:New York:London:937:200
+China Airlines:Alma-ata:New York:766:230
+La Compagnie:Ljubljana:Párizs:1100:230
+Alaska Airlines:New White Lake City:Fokváros:229:146
+AirAsia:Tokio:Bora-bora:992:225
+tigerair Australia:Toronto:Moszkva:443:150
+AirAsia X:Fehérgyarmat:Párizs:279:213
+South African Airways:Bora-bora:Tokio:259:102
+Icelandair:Pátroha:Toronto:977:223
+Air Namibia:Pátroha:Camberra:880:26
+Peach:Róma:Rejkyawik:345:100
+ANA:Rejkyawik:Pátroha:1178:224
+Qantas:New York:Alma-ata:833:136
+Hawaiian Airlines:Toronto:Róma:238:236
+flydubai:Ljubljana:Kék:1108:242
+Azerbaijan Hava Yollary:Kék:New White Lake City:571:150
+China Southern:New White Lake City:Fehérgyarmat:484:143
+Edelweiss Air:Moszkva:London:424:6
+United:Kék:Rejkyawik:583:68
+ANA:Rio de Janeiro:Miami:650:21
+Aeroflot:Miami:Miami:1182:123
+Germanwings:New York:Fokváros:1185:96
+Rossiya - Russian Airlines:Róma:San Francicso:772:120
+Bangkok Airways:Kék:Los Angeles:878:158
+Ukraine International:Alma-ata:Moszkva:837:103
+Air Austral:Soul:Fehérgyarmat:1119:182
+KLM:London:San Francicso:1252:131
+Spirit:Moszkva:San Francicso:104:205
+Malaysia Airlines:Fokváros:Kék:566:140
+Royal Air Maroc:Rio de Janeiro:Kék:898:147
+Regional Express:New York:London:813:41
+IndiGo Airlines:Rejkyawik:New White Lake City:950:203
+Fiji Airways:Camberra:Soul:1258:63
+Virgin Atlantic:Kék:Camberra:1035:10
+Sunwing:Ljubljana:Kék:1031:43
+Sunwing:Alma-ata:Moszkva:1045:170
+Philippine Airlines:Párizs:Toronto:628:115
+United:San Francicso:Rejkyawik:1064:147
+Emirates:Tokio:Soul:850:228
+UTair Aviation:Bora-bora:Alma-ata:485:80
+China Southern:Ljubljana:London:993:198
+Thomas Cook Airlines:Párizs:Fokváros:804:61
+LOT Polish Airlines:Róma:San Francicso:1098:70
+LATAM Brasil:Pátroha:Toronto:334:147
+Virgin Atlantic:Párizs:Toronto:1044:30
+WestJet:Fényeslitke:Camberra:107:109
+SpiceJet:Pátroha:New York:370:98
+Japan Airlines:Bora-bora:London:175:128
+Azores Airlines:Rio de Janeiro:Fehérgyarmat:825:25
+Aircalin:Toronto:Párizs:848:205
+Silkair:Pátroha:Budapest:591:151
+Silkair:Rio de Janeiro:New York:110:64
+British Airways:New York:Fokváros:1137:238
+Virgin Australia:Miami:Soul:231:99
+Copa Airlines:Camberra:Fehérgyarmat:424:207
+Asiana:Fehérgyarmat:Moszkva:558:144
+THAI:Alma-ata:Alma-ata:718:160
+Jet2:Budapest:Los Santos:1019:64
+Air Canada:Ljubljana:Miami:944:182
+Dragonair:Moszkva:New White Lake City:595:51
+EVA Air:Moszkva:Róma:318:44
+Kenya Airways:Fokváros:Camberra:775:16
+LATAM Brasil:Róma:Pátroha:450:69
+flydubai:Moszkva:Tokio:701:64
+Silkair:Rejkyawik:Camberra:281:72
+Emirates:New York:Bora-bora:1126:134
+Royal Jordanian:Alma-ata:Párizs:75:206
+Korean Air:Kék:Alma-ata:725:134
+Air Italy:Róma:New White Lake City:627:28
+Air Austral:Camberra:Alma-ata:508:3
+Air China:London:Bora-bora:138:69
+Qantas:Budapest:Rejkyawik:204:240
+SriLankan Airlines:Róma:Fehérgyarmat:662:78
+LATAM Chile:Moszkva:Los Angeles:1141:51
+South African Airways:London:Rejkyawik:888:138
+Air Namibia:Miami:Kék:680:198
+Thomas Cook Airlines:Toronto:Alma-ata:509:94
+Viva Aerobus:Moszkva:Róma:621:215
+Vueling Airlines:Fokváros:Fehérgyarmat:974:212
+Air Vanuatu:Budapest:Tokio:1148:196
+French bee:San Francicso:Los Angeles:771:60
+flydubai:Alma-ata:Camberra:174:196
+Alitalia:Toronto:Toronto:79:172
+Air Serbia:Miami:Fehérgyarmat:677:113
+Peach:Rejkyawik:Róma:473:95
+Transavia Airlines:Pátroha:Toronto:425:10
+Silkair:Los Santos:Toronto:1167:88
+Bangkok Airways:Soul:Los Angeles:890:234
+Germanwings:Fényeslitke:New White Lake City:214:74
+SriLankan Airlines:Pátroha:Los Angeles:785:17
+Shanghai Airlines:Pátroha:Los Santos:307:124
+French bee:Rejkyawik:Rio de Janeiro:272:222
+UTair Aviation:Camberra:Moszkva:786:60
+Eurowings:Tokio:London:911:78
+LATAM Brasil:Fokváros:London:809:73
+Oman Air:New White Lake City:Párizs:517:195
+Hawaiian Airlines:Fényeslitke:New White Lake City:60:151
+Emirates:Ljubljana:New York:349:138
+Viva Aerobus:Los Santos:Fokváros:309:231
+French bee:Róma:New York:345:240
+Saudia:Miami:Párizs:454:81
+Tunis Air:Kék:New White Lake City:399:51
+LOT Polish Airlines:San Francicso:Róma:765:139
+Air Tahiti Nui:New White Lake City:New White Lake City:79:126
+China Southern:Tokio:Fehérgyarmat:1217:124
+Scoot Airlines:Pátroha:Párizs:626:14
+Thomas Cook Airlines:Fokváros:London:628:38
+Cathay Pacific:Miami:Camberra:629:112
+Gulf Air:Bora-bora:Fényeslitke:1028:242
+Aer Lingus:Budapest:Budapest:414:180
+Spirit:Moszkva:New York:733:108
+Eurowings:Miami:Rio de Janeiro:1198:240
+Egyptair:Párizs:Los Angeles:536:128
+easyJet:Camberra:Fehérgyarmat:1050:69
+La Compagnie:San Francicso:Pátroha:535:249
+Czech Airlines:Los Angeles:Tokio:330:237
+Jetstar:Pátroha:Los Angeles:1093:15
+Hong Kong Airlines:Toronto:Soul:628:222
+La Compagnie:Fehérgyarmat:Tokio:991:63
+Hainan Airlines:Budapest:Rio de Janeiro:773:111
+Japan Airlines:Rio de Janeiro:Fokváros:622:249
+FlyOne:Alma-ata:San Francicso:304:190
+EL AL:Róma:Alma-ata:408:106
+Alaska Airlines:New York:New York:120:49
+Iberia:London:Rejkyawik:1185:89
+Southwest:Fényeslitke:Alma-ata:396:62
+Lion Airlines:Moszkva:New White Lake City:660:198
+Peach:Fokváros:Toronto:594:39
+Royal Air Maroc:New White Lake City:Toronto:465:108
+Virgin Australia:Róma:Rejkyawik:1080:176
+ANA:Ljubljana:Los Angeles:155:219
+Korean Air:Rejkyawik:Moszkva:445:152
+S7 Airlines:Fényeslitke:Budapest:782:31
+Hong Kong Airlines:Párizs:Miami:730:24
+Jet2:Budapest:Los Angeles:1197:174
+Ukraine International:Fehérgyarmat:New York:362:202
+Aeroflot:Budapest:Miami:283:181
+Air New Zealand:New York:Budapest:1203:83
+Asiana:Bora-bora:New York:137:85
+WestJet:Róma:Rejkyawik:1017:186
+China Eastern:Budapest:Bora-bora:525:34
+Bangkok Airways:Toronto:Fényeslitke:843:84
+Peach:Alma-ata:Tokio:147:95
+Air Tahiti Nui:Rejkyawik:Alma-ata:744:180
+Frontier:Fehérgyarmat:Los Angeles:278:73
+THAI:Fényeslitke:New York:201:242
+Copa Airlines:Ljubljana:New York:580:99
+Vietnam Airlines:San Francicso:San Francicso:657:229
+British Airways:Fényeslitke:Miami:306:34
+French bee:Los Angeles:Kék:501:25
+Dragonair:Kék:Róma:84:84
+TACA:Rejkyawik:Rejkyawik:166:248
+Air Tahiti Nui:Ljubljana:Ljubljana:897:140
+Egyptair:Ljubljana:Los Angeles:319:8
+easyJet:San Francicso:New York:548:128
+TUIfly:Soul:Fényeslitke:536:11
+Jetstar:Budapest:Párizs:982:136
+Rossiya - Russian Airlines:Fehérgyarmat:New White Lake City:512:97
+Aeroflot:Róma:Los Santos:350:219
+bmi regional:Miami:Fehérgyarmat:548:244
+China Eastern:Rejkyawik:Los Santos:509:58
+Transavia Airlines:Párizs:Los Angeles:454:86
+Aerolineas Argentinas:Miami:Pátroha:233:134
+Royal Air Maroc:Fokváros:Rejkyawik:988:159
+French bee:Tokio:Tokio:958:186
+Vietnam Airlines:Ljubljana:Bora-bora:1205:163
+French bee:Bora-bora:Alma-ata:727:139
+Jet Airways:Párizs:Moszkva:302:248
+S7 Airlines:Róma:London:1083:108
+South African Airways:Toronto:Fokváros:998:207
+UTair Aviation:Los Angeles:Moszkva:1060:229
+THAI:Rejkyawik:Toronto:346:119
+TAP Portugal:Toronto:Fehérgyarmat:786:96
+Lion Airlines:Fényeslitke:Los Santos:209:234
+FlyOne:Ljubljana:Soul:862:200
+Swoop:Rio de Janeiro:London:1203:233
+Jetstar:New York:Budapest:372:150
+Brussels Airlines:Pátroha:Pátroha:674:63
+Vanilla Air:Rio de Janeiro:Miami:766:78
+TAP Portugal:Kék:New York:969:72
+Korean Air:Los Angeles:Róma:440:111
+Transavia Airlines:Rio de Janeiro:Miami:796:224
+Jet Airways:New White Lake City:Los Angeles:1165:180
+South African Airways:Los Angeles:Bora-bora:835:86
+Aerolineas Argentinas:Fehérgyarmat:Tokio:1005:198
+Etihad:Párizs:New White Lake City:360:127
+Azerbaijan Hava Yollary:Ljubljana:London:125:110
+Japan Airlines:Bora-bora:Tokio:317:110
+China Eastern:Toronto:Los Angeles:592:32
+WestJet:Tokio:Rio de Janeiro:302:6
+Ryanair:Fényeslitke:Tokio:410:227
+LATAM Chile:Fényeslitke:Bora-bora:239:246
+British Airways:New York:London:1176:154
+Gulf Air:Los Santos:Fényeslitke:370:246
+Middle East Airlines:Ljubljana:Los Angeles:1100:133
+Aeromexico:Fehérgyarmat:Alma-ata:440:185
+United:Bora-bora:Rejkyawik:367:160
+Scoot Airlines:Moszkva:Rio de Janeiro:471:167
+Royal Jordanian:Bora-bora:Fényeslitke:1159:186
+Thomas Cook Airlines:Bora-bora:Camberra:250:41
+Air Canada:Fokváros:Párizs:338:27
+KLM:Rio de Janeiro:Párizs:798:153
+LOT Polish Airlines:Párizs:Los Santos:494:145
+Gulf Air:London:London:1132:133
+Azores Airlines:Fehérgyarmat:New White Lake City:1100:154
+JetBlue:Camberra:Camberra:261:248
+Etihad:London:Ljubljana:825:147
+Qantas:Bora-bora:Soul:1163:8
+La Compagnie:Róma:Kék:792:51
+Air Namibia:Camberra:Alma-ata:394:179
+Skylanes:Soul:London:270:52
+Air Transat:Los Santos:Kék:1121:203
+Delta:Ljubljana:Los Santos:755:149
+Rossiya - Russian Airlines:Los Angeles:Alma-ata:343:154
+LOT Polish Airlines:Moszkva:Toronto:518:201
+Royal Jordanian:Kék:Róma:215:231
+Delta:Bora-bora:Soul:775:166
+Jet2:London:Toronto:564:3
+Austrian:Miami:Miami:810:14
+Vietnam Airlines:New White Lake City:San Francicso:753:35
+Egyptair:Soul:Camberra:1163:215
+bmi regional:Ljubljana:New York:828:163
+Virgin Australia:Budapest:Soul:472:141
+French bee:Rejkyawik:Los Santos:905:108
+LOT Polish Airlines:Soul:Róma:149:135
+KLM:New White Lake City:Párizs:987:20
+Air Serbia:Rejkyawik:San Francicso:100:207
+Dragonair:New White Lake City:Budapest:1126:93
+THAI:Bora-bora:Párizs:102:164
+Virgin Australia:Tokio:Róma:459:182
+United:Camberra:Toronto:392:185
+Azul:Rejkyawik:Rejkyawik:462:97
+JetBlue:Alma-ata:London:475:128
+Middle East Airlines:Toronto:Ljubljana:1223:77
+Southwest:Róma:Bora-bora:503:128
+WOW air:Róma:Fehérgyarmat:941:181
+TAP Portugal:Pátroha:San Francicso:596:86
+WestJet:Toronto:Kék:1014:185
+Hainan Airlines:Camberra:Rio de Janeiro:550:133
+Vietnam Airlines:Rejkyawik:Miami:70:126
+Edelweiss Air:Tokio:Tokio:786:208
+Gol:Fehérgyarmat:Pátroha:205:29
+Peach:Tokio:Bora-bora:1090:66
+Azores Airlines:Párizs:Pátroha:1032:125
+Hainan Airlines:Fényeslitke:Rio de Janeiro:464:74
+SpiceJet:Rio de Janeiro:New York:534:168
+British Airways:Bora-bora:Fokváros:929:123
+Azul:Fehérgyarmat:Fehérgyarmat:1162:18
+French bee:Róma:Rio de Janeiro:254:159
+Sunwing:Toronto:New York:200:211
+Aer Lingus:Toronto:Fehérgyarmat:618:30
+Vanilla Air:Pátroha:San Francicso:426:128
+Spring Airlines:Rejkyawik:Pátroha:1068:100
+Scoot Airlines:Soul:Rejkyawik:133:178
+Virgin Atlantic:Tokio:Toronto:868:31
+Skylanes:Miami:Fényeslitke:594:198
+Brussels Airlines:Fokváros:Miami:1236:177
+Wizzair:Kék:Alma-ata:525:221
+Spring Airlines:New York:Moszkva:514:136
+Air Vanuatu:London:Ljubljana:509:53
+Iberia:Toronto:Los Angeles:122:124
+Sunwing:New White Lake City:Pátroha:220:117
+Air Italy:Ljubljana:Miami:705:61
+Condor:Tokio:Rejkyawik:209:13
+Korean Air:New White Lake City:Párizs:522:56
+Edelweiss Air:Moszkva:Rejkyawik:198:150
+Air Transat:Miami:Toronto:1145:77
+CEBU Pacific Air:New White Lake City:New White Lake City:540:205
+S7 Airlines:Toronto:Bora-bora:890:54
+Germanwings:Rio de Janeiro:Fokváros:657:3
+SriLankan Airlines:Toronto:Róma:70:192
+Saudia:Rio de Janeiro:New White Lake City:1005:206
+SpiceJet:Fényeslitke:Moszkva:1257:209
+Cathay Pacific:Fényeslitke:Ljubljana:228:84
+WestJet:London:New York:547:75
+Iberia:Rejkyawik:San Francicso:498:39
+Air Namibia:Rio de Janeiro:Moszkva:841:229
+Volaris:Budapest:Tokio:509:9
+Air Europa:New York:Rio de Janeiro:916:162
+Azul:Moszkva:Toronto:412:77
+Copa Airlines:Budapest:Budapest:356:72
+Condor:Ljubljana:Fehérgyarmat:98:139
+WOW air:New York:London:280:85
+Air Canada:Pátroha:Rejkyawik:1097:198
+Etihad:London:Camberra:1097:207
+Singapore Airlines:Miami:Toronto:506:112
+Frontier:San Francicso:Los Santos:947:245
+Lion Airlines:Párizs:Toronto:692:191
+IndiGo Airlines:Toronto:Camberra:101:68
+Air France:Miami:Pátroha:165:199
+Air Caraibes:Toronto:Pátroha:599:7
+Hawaiian Airlines:Miami:London:751:225
+Tunis Air:Pátroha:Moszkva:322:108
+Qatar Airways:Los Angeles:Fényeslitke:859:17
+JetBlue:Soul:Bora-bora:539:182
+Jetstar:Moszkva:Alma-ata:781:71
+Skylanes:Fehérgyarmat:Fokváros:519:75
+Hainan Airlines:Miami:Miami:335:20
+Jet2:Rio de Janeiro:Fehérgyarmat:992:23
+Rossiya - Russian Airlines:Toronto:Rejkyawik:335:210
+Royal Brunei:Budapest:London:618:193
+Emirates:New York:Soul:568:65
+Icelandair:Fokváros:Miami:999:110
+Tunis Air:Budapest:Los Santos:568:115
+Croatia Airlines:Fokváros:Fehérgyarmat:235:226
+Air Italy:Toronto:Fényeslitke:104:209
+Air China:New White Lake City:Párizs:874:247
+SpiceJet:San Francicso:Los Angeles:516:65
+Aeroflot:Camberra:New York:444:96
+Swoop:Los Santos:Fényeslitke:1051:195
+CEBU Pacific Air:Pátroha:Moszkva:1064:214
+flydubai:Kék:Ljubljana:134:18
+Ukraine International:Budapest:Alma-ata:218:48
+Avianca:Camberra:Fokváros:566:186
+Hong Kong Airlines:New York:Fényeslitke:313:150
+Volaris:Fokváros:Budapest:703:108
+Volaris:Bora-bora:San Francicso:344:169
+Air Tahiti Nui:Moszkva:Soul:442:33
+Korean Air:Róma:Budapest:80:125
+TAAG:Toronto:Camberra:755:105
+China Eastern:Miami:Tokio:290:181
+Ethiopian Airlines:Los Angeles:Budapest:850:182
+Vanilla Air:Kék:Fényeslitke:940:33
+Lufthansa:Tokio:Kék:586:15
+Royal Brunei:Fokváros:New White Lake City:699:69
+Vistara:Toronto:Los Angeles:1178:249
+Pegasus Airlines:Kék:Los Angeles:983:95
+Spring Japan:Tokio:Rejkyawik:391:193
+Nok Air:Rio de Janeiro:Párizs:213:84
+FlyOne:Rio de Janeiro:Bora-bora:999:46
+Lufthansa:Fehérgyarmat:New White Lake City:347:220
+Skylanes:Miami:Alma-ata:716:150
+Alaska Airlines:London:Alma-ata:1080:133
+TAP Portugal:Los Santos:San Francicso:1023:231
+Icelandair:Pátroha:Fehérgyarmat:493:147
+AirAsia:Budapest:Tokio:656:49
+Garuda Indonesia:Moszkva:Budapest:662:38
+Air Caraibes:Róma:Fényeslitke:750:51
+Kenya Airways:London:Ljubljana:1119:82
+Kenya Airways:Rejkyawik:Párizs:98:20
+Czech Airlines:Soul:Los Santos:224:47
+Aeroflot:Budapest:Miami:364:13
+Spring Airlines:Róma:Camberra:1060:97
+WOW air:San Francicso:New York:588:137
+United:Budapest:Párizs:853:248
+Lufthansa:Ljubljana:Kék:821:72
+Copa Airlines:Alma-ata:Toronto:791:120
+United:Kék:San Francicso:1049:198
+FlyBE:Ljubljana:Kék:800:242
+Virgin Australia:Fokváros:Rejkyawik:104:122
+Vueling Airlines:Rio de Janeiro:Rio de Janeiro:170:238
+Thomas Cook Airlines:New White Lake City:Ljubljana:842:165
+Alitalia:San Francicso:New York:755:32
+Southwest:New York:Tokio:380:216
+Porter:Tokio:Fényeslitke:95:212
+Air Namibia:Fokváros:Miami:686:108
+S7 Airlines:Párizs:New York:614:139
+Malaysia Airlines:Alma-ata:Tokio:808:14
+British Airways:Fehérgyarmat:Rejkyawik:555:25
+Azerbaijan Hava Yollary:Camberra:New White Lake City:185:190
+Avianca:Budapest:Bora-bora:468:164
+Vueling Airlines:Bora-bora:Párizs:289:134
+Germanwings:Camberra:Fehérgyarmat:1175:65
+Royal Brunei:San Francicso:Soul:301:123
+SWISS:London:Miami:182:42
+LATAM Brasil:Ljubljana:Párizs:814:243
+WOW air:Miami:Miami:1105:83
+Jeju Air:Rio de Janeiro:London:143:182
+S7 Airlines:Toronto:Ljubljana:463:100
+Vistara:Budapest:Fényeslitke:403:235
+Cathay Pacific:Los Santos:Budapest:137:59
+Thomas Cook Airlines:London:Toronto:592:5
+Condor:New White Lake City:Alma-ata:542:190
+Philippine Airlines:Ljubljana:Rio de Janeiro:965:16
+Philippine Airlines:Miami:Róma:627:95
+Singapore Airlines:Miami:Alma-ata:282:210
+Pakistan International Airlines:Camberra:Los Santos:697:209
+Vanilla Air:Fokváros:Alma-ata:1112:170
+SpiceJet:Párizs:Ljubljana:220:248
+JetBlue:Fokváros:Kék:202:22
+Emirates:Pátroha:Fényeslitke:243:172
+Royal Jordanian:Bora-bora:New White Lake City:1086:100
+Czech Airlines:Róma:Los Angeles:62:224
+Swoop:Rejkyawik:Budapest:541:236
+bmi regional:Los Angeles:Budapest:491:120
+tigerair Australia:Fényeslitke:Camberra:416:154
+Royal Brunei:Párizs:Fehérgyarmat:141:27
+Bangkok Airways:Fokváros:Budapest:929:118
+Air India:Fehérgyarmat:Pátroha:758:5
+Middle East Airlines:London:Párizs:1248:129
+UTair Aviation:Camberra:Soul:1091:223
+Azores Airlines:Toronto:Kék:943:75
+Fiji Airways:Miami:Fényeslitke:161:209
+AirAsia:Alma-ata:Toronto:909:117
+LATAM Chile:Ljubljana:Toronto:114:49
+China Airlines:Miami:Miami:479:139
+UTair Aviation:Toronto:Miami:1069:23
+TAAG:Toronto:Párizs:753:168
+UTair Aviation:Soul:Los Angeles:547:66
+Aegean Airlines:Alma-ata:London:68:128
+tigerair Australia:Bora-bora:Budapest:928:192
+Singapore Airlines:Budapest:Ljubljana:571:167
+Copa Airlines:Kék:Fokváros:1089:150
+Aeroflot:Toronto:Párizs:700:56
+Saudia:Budapest:Rio de Janeiro:887:19
+Air China:Los Santos:Rio de Janeiro:70:143
+Gulf Air:Toronto:Tokio:757:93
+Asiana:Rejkyawik:Pátroha:1222:86
+Brussels Airlines:Moszkva:Pátroha:1071:227
+Azul:Los Angeles:Tokio:343:191
+SAS:Rejkyawik:Tokio:704:157
+Southwest:Toronto:Ljubljana:782:121
+Porter:Los Angeles:Miami:1027:94
+Hainan Airlines:Tokio:Fényeslitke:474:202
+Qantas:San Francicso:Los Angeles:1048:162
+LATAM Chile:New White Lake City:Miami:707:55
+Gol:Moszkva:Bora-bora:1053:110
+Hainan Airlines:Rio de Janeiro:Fényeslitke:578:208
+SriLankan Airlines:Los Angeles:Ljubljana:521:191
+Hawaiian Airlines:London:Fényeslitke:370:249
+Jetstar:London:Moszkva:618:70
+Thomson:San Francicso:Rio de Janeiro:1204:187
+Skylanes:Ljubljana:Budapest:724:126
+WOW air:Los Angeles:Rio de Janeiro:90:190
+Air Canada:New York:Kék:590:105
+AtlasGlobal:New White Lake City:Fényeslitke:744:190
+American Airlines:Miami:London:1005:54
+Wizzair:Róma:Fokváros:654:187
+Jeju Air:Párizs:Ljubljana:675:52
+Air New Zealand:Alma-ata:New White Lake City:290:171
+Malaysia Airlines:Camberra:Soul:946:32
+LATAM Chile:Budapest:Pátroha:705:194
+Asiana:Budapest:Róma:988:111
+Cathay Pacific:Róma:New White Lake City:285:90
+Azerbaijan Hava Yollary:Ljubljana:Pátroha:636:105
+AirAsia X:New York:Rio de Janeiro:196:113
+Azul:Budapest:Párizs:1087:103
+Singapore Airlines:Miami:Alma-ata:682:116
+Azul:Róma:Fényeslitke:446:246
+Aeroflot:Los Angeles:Kék:75:91
+China Southern:Pátroha:Alma-ata:1126:90
+Austrian:New White Lake City:Bora-bora:1200:139
+SriLankan Airlines:Alma-ata:Fényeslitke:223:137
+Copa Airlines:Soul:Rio de Janeiro:562:153
+Skylanes:Budapest:New White Lake City:1170:13
+FlyOne:Párizs:Los Santos:809:230
+Nok Air:Bora-bora:Párizs:682:23
+Nordwind Airlines:Rejkyawik:Fényeslitke:683:26
+Air France:Miami:Pátroha:992:60
+Czech Airlines:Kék:Róma:1244:73
+Icelandair:Budapest:Budapest:591:15
+Dragonair:Rio de Janeiro:Budapest:1106:58
+Viva Aerobus:Toronto:New York:1044:210
+Czech Airlines:Camberra:Moszkva:621:217
+China Airlines:Kék:Bora-bora:370:49
+Aeroflot:Camberra:Bora-bora:998:157
+Shanghai Airlines:Los Santos:Fokváros:574:227
+Allegiant:San Francicso:Párizs:535:182
+LATAM Brasil:Fehérgyarmat:Los Angeles:107:192
+Icelandair:Camberra:Los Santos:985:127
+Air Italy:Fokváros:New York:156:233
+La Compagnie:Fényeslitke:Miami:424:93
+Swoop:New York:Miami:407:177
+Alaska Airlines:Moszkva:Moszkva:154:228
+Aircalin:Pátroha:Tokio:195:181
+Air Austral:Róma:Los Santos:247:245
+Nok Air:Róma:Miami:1238:61
+ANA:Los Santos:Tokio:342:42
+UTair Aviation:Los Angeles:Los Santos:427:130
+Norwegian Air Shuttle:Alma-ata:Kék:176:151
+Jetstar:Budapest:Rejkyawik:928:231
+Volaris:Rio de Janeiro:Fokváros:1220:10
+China Southern:Los Angeles:Los Angeles:298:92
+SriLankan Airlines:Tokio:Kék:1171:112
+Alaska Airlines:Rio de Janeiro:London:799:36
+Thomas Cook Airlines:Toronto:Soul:151:43
+Hawaiian Airlines:Bora-bora:Tokio:152:85
+S7 Airlines:Rejkyawik:Camberra:1151:162
+Brussels Airlines:Rejkyawik:Toronto:85:176
+Jeju Air:Alma-ata:Pátroha:643:93
+Jetstar:Ljubljana:Fényeslitke:178:209
+easyJet:Los Santos:Rio de Janeiro:651:93
+Oman Air:Alma-ata:Tokio:64:11
+Hong Kong Airlines:New York:New York:447:238
+Azerbaijan Hava Yollary:Toronto:Fokváros:1111:68
+Allegiant:Moszkva:Rejkyawik:226:198
+Middle East Airlines:Ljubljana:Soul:912:221
+Vistara:Pátroha:Soul:992:120
+Jet Airways:Ljubljana:Camberra:256:8
+FlyBE:Alma-ata:Bora-bora:1054:112
+Ukraine International:Kék:London:422:218
+Air Serbia:London:Budapest:634:130
+Jet2:Párizs:Pátroha:1233:122
+Aerolineas Argentinas:Kék:Budapest:913:87
+Air Vanuatu:Tokio:Tokio:470:8
+British Airways:Rejkyawik:Toronto:415:3
+Emirates:Róma:Soul:795:91
+Oman Air:Miami:Los Angeles:78:89
+United:Soul:Ljubljana:951:218
+Air France:Fényeslitke:Bora-bora:1012:220
+Fiji Airways:Budapest:Tokio:664:223
+French bee:Los Santos:Kék:788:3
+Ryanair:Miami:Pátroha:606:47
+Peach:London:Fehérgyarmat:107:112
+SpiceJet:Tokio:Soul:1063:136
+Wizzair:London:San Francicso:677:146
+Azul:Toronto:Alma-ata:169:189
+Allegiant:New York:New York:198:212
+United:Párizs:Párizs:197:222
+Gulf Air:Fokváros:Róma:436:67
+Pakistan International Airlines:Miami:Los Angeles:753:220
+Delta:Róma:New York:610:160
+Fiji Airways:Alma-ata:London:831:99
+Spring Airlines:Budapest:Camberra:694:16
+Hawaiian Airlines:Róma:Fényeslitke:959:124
+Xiamen Airlines:Toronto:Toronto:182:20
+Alaska Airlines:Camberra:Fehérgyarmat:86:159
+Pakistan International Airlines:Fehérgyarmat:Tokio:162:114
+Viva Aerobus:Kék:Bora-bora:686:130
+S7 Airlines:Párizs:Kék:1259:65
+Virgin Australia:Los Santos:Tokio:406:45
+FlyOne:New White Lake City:New York:574:75
+Austrian:Camberra:London:1118:243
+TUIfly:Los Santos:Róma:1107:196
+Air Europa:Rejkyawik:San Francicso:431:88
+Alitalia:Rio de Janeiro:Rio de Janeiro:189:74
+Bangkok Airways:Moszkva:San Francicso:667:177
+Hong Kong Airlines:Kék:Párizs:573:169
+Pegasus Airlines:Párizs:Ljubljana:511:17
+Virgin Atlantic:London:Kék:670:47
+Frontier:New White Lake City:New White Lake City:320:83
+British Airways:Rio de Janeiro:Tokio:506:199
+TAAG:Bora-bora:New York:942:97
+Hawaiian Airlines:Los Santos:Párizs:1202:39
+Jet Airways:Párizs:Róma:1091:128
+Transavia Airlines:Pátroha:Budapest:510:10
+Jet2:Tokio:Pátroha:1188:133
+Pegasus Airlines:Soul:Fényeslitke:694:137
+TAP Portugal:Fényeslitke:Fokváros:559:181
+Sun Country:Pátroha:Moszkva:78:135
+Thomas Cook Airlines:Ljubljana:Tokio:665:8
+United:Moszkva:Miami:1144:92
+Etihad:Róma:Budapest:469:108
+Gulf Air:Rejkyawik:Pátroha:998:79
+Nordwind Airlines:Pátroha:Pátroha:445:221
+Vietnam Airlines:Camberra:Camberra:1024:39
+Qantas:Tokio:Tokio:249:236
+Air France:New York:Los Santos:551:74
+Viva Aerobus:Ljubljana:Toronto:892:68
+Porter:Kék:Kék:124:77
+Dragonair:Alma-ata:Fokváros:460:151
+TUIfly:New York:Soul:251:196
+Korean Air:Róma:San Francicso:825:52
+Air Caraibes:Tokio:Kék:1052:191
+Icelandair:San Francicso:Rio de Janeiro:445:21
+Malaysia Airlines:Soul:Los Angeles:298:229
+SriLankan Airlines:Tokio:New White Lake City:420:30
+SWISS:New York:Bora-bora:369:6
+TAAG:Tokio:Soul:583:169
+Jet2:Rejkyawik:Rio de Janeiro:1075:41
+Jet Airways:San Francicso:Los Angeles:1217:85
+Volaris:Fehérgyarmat:Bora-bora:837:113
+Lion Airlines:Fehérgyarmat:Los Angeles:1178:244
+Cathay Pacific:Bora-bora:San Francicso:467:158
+Korean Air:Fehérgyarmat:Los Santos:205:7
+Norwegian Air Shuttle:Miami:Róma:436:163
+Thomson:Rio de Janeiro:Alma-ata:333:41
+AirAsia X:Rio de Janeiro:Rejkyawik:884:52
+Turkish Airlines:Fehérgyarmat:New York:682:218
+United:Los Angeles:Fényeslitke:673:58
+Porter:Fényeslitke:Kék:953:146
+Middle East Airlines:Toronto:Miami:488:175
+Air Serbia:Moszkva:San Francicso:1147:147
+ANA:Kék:San Francicso:1254:13
+Japan Airlines:Tokio:Pátroha:312:89
+Royal Jordanian:New White Lake City:Ljubljana:1037:195
+Air Vanuatu:Los Santos:Rio de Janeiro:618:26
+Saudia:New White Lake City:New York:652:177
+Sunwing:Toronto:New York:802:6
+Qatar Airways:Fehérgyarmat:Soul:508:33
+Porter:Los Santos:Fokváros:675:169
+Air China:Bora-bora:Budapest:1000:22
+Ethiopian Airlines:Tokio:Bora-bora:323:32
+China Eastern:Pátroha:Los Angeles:592:135
+Copa Airlines:Fokváros:New York:246:92
+Thomson:Alma-ata:New White Lake City:196:111
+Edelweiss Air:Los Santos:Los Angeles:163:36
+American Airlines:Párizs:London:1231:167
+Azul:Moszkva:Soul:1258:114
+SAS:Rejkyawik:Rejkyawik:564:190
+Peach:Ljubljana:New White Lake City:1017:15
+Emirates:London:Fényeslitke:1115:156
+Scoot Airlines:Kék:Kék:1118:129
+Royal Jordanian:Rio de Janeiro:Róma:258:245
+Icelandair:Budapest:San Francicso:943:16
+SriLankan Airlines:Moszkva:London:305:186
+JetBlue:Tokio:London:1116:24
+Japan Airlines:Toronto:Tokio:829:31
+WestJet:Párizs:New White Lake City:454:212
+Croatia Airlines:San Francicso:Alma-ata:224:60
+Royal Air Maroc:Bora-bora:Ljubljana:651:30
+Pegasus Airlines:Kék:Moszkva:374:245
+Middle East Airlines:Los Angeles:New York:462:151
+Aeromexico:Tokio:Fényeslitke:341:18
+Croatia Airlines:Bora-bora:New York:1251:36
+TACA:Los Santos:Rio de Janeiro:916:85
+Qantas:Alma-ata:Camberra:1164:229
+JetBlue:Fehérgyarmat:Ljubljana:1102:220
+Korean Air:Camberra:Rio de Janeiro:581:186
+Xiamen Airlines:Tokio:Fehérgyarmat:1044:196
+Aerolineas Argentinas:Fokváros:Fényeslitke:1033:235
+SAS:Moszkva:Toronto:696:29
+Viva Aerobus:Ljubljana:Rejkyawik:867:191
+Thomas Cook Airlines:Los Santos:Moszkva:805:194
+Peach:Fokváros:Moszkva:466:145
+Spirit:Fényeslitke:Kék:683:159
+Iberia:Bora-bora:Rejkyawik:136:149
+Royal Jordanian:New York:Tokio:643:80
+Lion Airlines:Fokváros:New York:657:172
+Eurowings:Bora-bora:Camberra:705:181
+Air New Zealand:Fehérgyarmat:Rio de Janeiro:325:101
+EL AL:Tokio:Fokváros:97:189
+Kenya Airways:Toronto:Bora-bora:637:80
+Lion Airlines:New York:Los Santos:1112:187
+China Southern:Toronto:Los Santos:426:19
+Ethiopian Airlines:Párizs:Los Santos:336:78
+Scoot Airlines:Soul:Camberra:413:75
+Transavia Airlines:Párizs:Tokio:311:120
+French bee:Soul:Moszkva:1070:122
+Vanilla Air:Kék:Fokváros:531:63
+Porter:Bora-bora:Tokio:285:245
+Lion Airlines:Los Santos:Fehérgyarmat:615:104
+Volotea:Los Santos:Soul:1251:47
+Alitalia:Camberra:Moszkva:781:19
+Thomas Cook Airlines:San Francicso:Kék:804:139
+Air France:Los Angeles:Párizs:1159:138
+tigerair Australia:Róma:Alma-ata:691:83
+Air France:Fehérgyarmat:Toronto:1003:219
+Germanwings:Budapest:Tokio:519:231
+Middle East Airlines:London:Rejkyawik:552:148
+Bangkok Airways:Róma:Fehérgyarmat:624:232
+Rossiya - Russian Airlines:Miami:Bora-bora:1121:99
+tigerair Australia:Fényeslitke:San Francicso:447:112
+flydubai:Miami:Los Santos:709:75
+CEBU Pacific Air:Rio de Janeiro:Camberra:755:76
+Transavia Airlines:Pátroha:New York:517:227
+Air Europa:Camberra:Budapest:1066:99
+JetBlue:Miami:Rejkyawik:1008:31
+Southwest:London:Bora-bora:402:240
+Middle East Airlines:Róma:Ljubljana:234:78
+British Airways:New White Lake City:Alma-ata:1164:179
+Norwegian Air Shuttle:Bora-bora:Miami:1037:190
+Middle East Airlines:Moszkva:Kék:969:221
+Air Namibia:Toronto:Fehérgyarmat:811:14
+AtlasGlobal:Fehérgyarmat:Rio de Janeiro:140:178
+Air Transat:Kék:Róma:693:136
+Gulf Air:Rio de Janeiro:Pátroha:140:40
+Silkair:Tokio:Budapest:538:180
+Garuda Indonesia:Miami:Fehérgyarmat:1061:224
+British Airways:Toronto:Los Angeles:275:193
+SAS:Bora-bora:Pátroha:309:71
+Regional Express:Fokváros:Budapest:686:60
+Swoop:Moszkva:Fehérgyarmat:197:33
+Spring Japan:San Francicso:Párizs:491:104
+Etihad:Bora-bora:Los Angeles:1140:246
+bmi regional:Rejkyawik:New York:533:65
+United:Moszkva:Camberra:666:169
+Alaska Airlines:Pátroha:Toronto:963:105
+Croatia Airlines:New White Lake City:Toronto:882:138
+TAP Portugal:Los Santos:Camberra:780:217
+Vueling Airlines:Los Angeles:Los Santos:393:62
+Nordwind Airlines:Fehérgyarmat:Fényeslitke:651:243
+Jeju Air:Los Angeles:Fehérgyarmat:1022:206
+FlyOne:London:Ljubljana:962:178
+Kenya Airways:Toronto:Toronto:688:192
+Scoot Airlines:Alma-ata:Los Angeles:264:245
+Aer Lingus:Fokváros:Camberra:942:155
+Lion Airlines:San Francicso:Ljubljana:619:3
+LOT Polish Airlines:Alma-ata:Camberra:74:117
+Allegiant:Fényeslitke:Toronto:1141:115
+Nok Air:Tokio:Fehérgyarmat:191:111
+Tunis Air:Tokio:New York:586:7
+TACA:Los Santos:New York:292:199
+ANA:Los Santos:Soul:504:183
+Peach:San Francicso:London:1042:124
+Ryanair:Fokváros:Toronto:82:133
+Silkair:Bora-bora:Fehérgyarmat:714:230
+Austrian:Budapest:Pátroha:570:108
+CEBU Pacific Air:Rio de Janeiro:Tokio:1121:105
+Aer Lingus:Kék:Moszkva:1053:163
+Gulf Air:San Francicso:New York:238:184
+Air Serbia:Ljubljana:Fényeslitke:807:8
+Avianca:Toronto:Párizs:739:139
+French bee:Miami:Moszkva:922:96
+FlyOne:Fényeslitke:Moszkva:1239:183
+TUIfly:Rio de Janeiro:Camberra:192:236
+InterJet:Los Santos:Kék:830:76
+Etihad:Fehérgyarmat:San Francicso:1046:188
+Thomson:Rejkyawik:Miami:1179:240
+Hawaiian Airlines:Los Angeles:San Francicso:473:173
+Middle East Airlines:Budapest:Rejkyawik:825:208
+LATAM Brasil:Bora-bora:Tokio:663:62
+UTair Aviation:Párizs:Camberra:1134:147
+Croatia Airlines:Ljubljana:Los Santos:606:101
+Cathay Pacific:Los Angeles:Los Santos:66:142
+Czech Airlines:Párizs:San Francicso:1000:140
+British Airways:Ljubljana:Kék:883:3
+Eurowings:Camberra:Los Santos:668:173
+Azores Airlines:Camberra:London:1114:144
+Air Transat:Alma-ata:Camberra:330:88
+Air Italy:Fehérgyarmat:Pátroha:892:12
+Korean Air:San Francicso:Alma-ata:652:82
+SAS:Kék:Fehérgyarmat:193:218
+Middle East Airlines:Kék:New White Lake City:369:201
+SpiceJet:Fokváros:Kék:440:117
+Jetstar:Los Angeles:Los Angeles:889:105
+Jet Airways:New York:Róma:944:120
+Transavia Airlines:Pátroha:Moszkva:931:72
+TACA:Bora-bora:Kék:393:243
+FlyOne:San Francicso:Soul:1125:144
+Air Transat:Rejkyawik:Fehérgyarmat:1072:14
+Kenya Airways:Toronto:Rejkyawik:935:60
+Aer Lingus:Tokio:London:1060:191
+Air Serbia:Los Santos:Soul:155:49
+LATAM Chile:Fokváros:San Francicso:243:122
+UTair Aviation:Fokváros:Fényeslitke:1135:239
+Ethiopian Airlines:Róma:New York:965:30
+LATAM Brasil:Los Angeles:Rejkyawik:619:160
+Pegasus Airlines:Miami:Camberra:340:212
+British Airways:Los Angeles:Bora-bora:1139:91
+Air Transat:Fokváros:Toronto:894:164
+French bee:Rio de Janeiro:Los Angeles:1195:211
+Air Europa:Rejkyawik:Rio de Janeiro:503:245
+S7 Airlines:Tokio:Bora-bora:481:29
+Iberia:Róma:Fényeslitke:328:145
+Skylanes:Pátroha:San Francicso:1095:240
+Oman Air:Fokváros:Los Santos:791:116
+Air China:Alma-ata:London:326:26
+Tunis Air:Párizs:London:489:164
+S7 Airlines:Rejkyawik:Fokváros:588:100
+Brussels Airlines:Budapest:Rio de Janeiro:505:187
+Southwest:Tokio:Budapest:748:244
+Qatar Airways:Rio de Janeiro:Los Santos:1163:200
+Kenya Airways:Párizs:Pátroha:310:146
+Vueling Airlines:Toronto:Miami:445:57
+Air Austral:Ljubljana:Párizs:882:5
+Air Serbia:Budapest:Los Santos:524:213
+WestJet:Rejkyawik:Alma-ata:922:51
+Singapore Airlines:Los Angeles:Camberra:1160:13
+AtlasGlobal:Toronto:Moszkva:837:29
+Thomas Cook Airlines:Soul:New York:319:98
+Azerbaijan Hava Yollary:Rio de Janeiro:Párizs:91:111
+Royal Brunei:Róma:Los Angeles:213:21
+Air Vanuatu:San Francicso:Soul:157:43
+Gulf Air:Rejkyawik:Pátroha:1012:184
+InterJet:San Francicso:New White Lake City:922:36
+Eurowings:Kék:Alma-ata:499:170
+La Compagnie:New York:Fokváros:1183:85
+Vueling Airlines:Kék:Soul:376:167
+EL AL:Rio de Janeiro:Fényeslitke:987:43
+SriLankan Airlines:Los Angeles:Fokváros:749:177
+Kenya Airways:London:Rejkyawik:357:215
+AirAsia X:Fehérgyarmat:Fehérgyarmat:645:249
+Hawaiian Airlines:Róma:Bora-bora:218:176
+British Airways:Rio de Janeiro:Alma-ata:966:246
+WOW air:Tokio:Róma:440:106
+TAAG:Los Santos:London:410:3
+Volotea:Róma:Róma:898:53
+Air India Express:Alma-ata:Róma:1199:102
+Azul:Alma-ata:Camberra:83:205
+Wizzair:Fokváros:Ljubljana:1243:115
+Azerbaijan Hava Yollary:Tokio:Párizs:518:6
+United:Toronto:Fényeslitke:1064:230
+Gol:Camberra:Fokváros:1082:235
+Xiamen Airlines:Moszkva:Ljubljana:1053:59
+Air Serbia:Budapest:Los Angeles:1192:144
+Icelandair:London:San Francicso:833:18
+Royal Jordanian:Moszkva:Toronto:1123:133
+Japan Airlines:Fényeslitke:San Francicso:992:143
+Nok Air:Fehérgyarmat:Budapest:824:35
+bmi regional:New York:San Francicso:104:217
+China Eastern:Soul:Soul:1248:91
+Iberia:Fényeslitke:Los Angeles:497:154
+La Compagnie:Budapest:Alma-ata:128:160
+Air China:Tokio:Tokio:63:230
+IndiGo Airlines:San Francicso:Rejkyawik:760:195
+Azul:Toronto:Ljubljana:1242:37
+La Compagnie:Moszkva:Ljubljana:283:66
+Bangkok Airways:Fokváros:San Francicso:691:192
+WOW air:Fokváros:Camberra:863:91
+InterJet:Los Santos:Miami:350:86
+Spring Airlines:London:Rejkyawik:486:166
+Spirit:Camberra:Rio de Janeiro:1251:221
+TACA:Fényeslitke:Los Santos:195:174
+Nok Air:Miami:San Francicso:327:63
+Air China:Pátroha:Budapest:908:154
+AtlasGlobal:Bora-bora:Pátroha:1122:162
+LATAM Brasil:Alma-ata:Miami:1184:233
+SriLankan Airlines:Fényeslitke:Soul:975:96
+Malaysia Airlines:London:Tokio:1029:20
+Qatar Airways:San Francicso:New York:393:137
+Spirit:Alma-ata:Toronto:1168:189
+Sun Country:Bora-bora:Tokio:1003:113
+Viva Aerobus:Fényeslitke:Fokváros:347:34
+Saudia:Los Angeles:London:118:192
+JetBlue:Fényeslitke:Fényeslitke:1194:197
+Air Caraibes:Los Angeles:Kék:1035:46
+Skylanes:New York:Budapest:489:157
+United:Ljubljana:Toronto:694:80
+EVA Air:Bora-bora:Los Angeles:367:141
+Hong Kong Airlines:Bora-bora:Los Santos:754:206
+Edelweiss Air:London:Los Santos:1151:58
+LATAM Brasil:Pátroha:New White Lake City:653:216
+Allegiant:Budapest:Pátroha:594:245
+Dragonair:Rio de Janeiro:Los Angeles:661:167
+TAAG:Los Angeles:Fényeslitke:1109:245
+Air New Zealand:Róma:San Francicso:114:55
+TAAG:Fényeslitke:Róma:1099:101
+CEBU Pacific Air:Fényeslitke:Párizs:557:98
+EVA Air:New White Lake City:Fokváros:908:83
+Azores Airlines:New York:Los Angeles:1129:53
+Aircalin:Ljubljana:Fokváros:207:240
+tigerair Australia:Párizs:Moszkva:774:94
+Vistara:Rejkyawik:Rio de Janeiro:232:84
+Singapore Airlines:Alma-ata:Fényeslitke:103:54
+Volotea:Fehérgyarmat:Los Angeles:826:209
+Scoot Airlines:Fehérgyarmat:Alma-ata:765:227
+Vueling Airlines:Pátroha:London:1096:218
+Virgin Australia:Kék:Tokio:832:122
+JetBlue:Moszkva:New White Lake City:556:95
+Philippine Airlines:Camberra:London:981:176
+Aeromexico:Kék:New White Lake City:763:23
+Kenya Airways:Fényeslitke:Toronto:199:61
+Viva Aerobus:Tokio:London:1035:229
+Spring Airlines:Fényeslitke:Ljubljana:1098:72
+IndiGo Airlines:New York:Fehérgyarmat:827:242
+Japan Airlines:Los Angeles:Rejkyawik:137:204
+Aeromexico:New York:Camberra:832:79
+Air China:San Francicso:Camberra:1170:187
+Air Austral:Fehérgyarmat:Alma-ata:808:200
+Air France:Bora-bora:Fehérgyarmat:1119:60
+Jeju Air:Pátroha:Fehérgyarmat:1040:164
+TAP Portugal:Pátroha:New White Lake City:394:205
+EVA Air:Camberra:Alma-ata:737:243
+Porter:New York:New White Lake City:196:53
+Aer Lingus:Fokváros:Los Angeles:798:211
+Air India Express:Bora-bora:Tokio:225:16
+Aeromexico:Los Santos:Alma-ata:1099:206
+Allegiant:Los Angeles:New White Lake City:811:202
+Tunis Air:Pátroha:Ljubljana:1198:231
+Gulf Air:Fényeslitke:Bora-bora:519:67
+Saudia:Soul:Soul:577:149
+LATAM Chile:Rejkyawik:Párizs:1161:98
+Germanwings:Toronto:Soul:65:14
+Tunis Air:Toronto:Budapest:1182:62
+Air Vanuatu:San Francicso:Miami:727:89
+Transavia Airlines:San Francicso:Fényeslitke:681:107
+French bee:New York:Róma:524:243
+TUIfly:Budapest:Kék:1087:72
+South African Airways:Tokio:Miami:778:99
+China Southern:Los Santos:Róma:693:224
+SpiceJet:San Francicso:Miami:263:220
+China Airlines:Fényeslitke:Los Santos:64:132
+Ryanair:Camberra:Los Santos:1175:204
+Royal Jordanian:Alma-ata:Alma-ata:1098:50
+Cathay Pacific:Rio de Janeiro:Miami:389:13
+Azerbaijan Hava Yollary:San Francicso:Ljubljana:774:197
+Thomas Cook Airlines:New York:Fehérgyarmat:545:167
+Air New Zealand:Los Angeles:San Francicso:801:164
+Tunis Air:Kék:Róma:367:138
+Qantas:Miami:London:698:95
+IndiGo Airlines:Fokváros:San Francicso:581:229
+Singapore Airlines:Miami:Párizs:358:164
+TAAG:Rejkyawik:Los Santos:1093:243
+Japan Airlines:Tokio:Fényeslitke:899:93
+Swoop:London:London:936:46
+Peach:Soul:Róma:165:147
+Volaris:Rio de Janeiro:Kék:890:70
+SAS:Ljubljana:Camberra:947:231
+Aircalin:Budapest:Rio de Janeiro:1235:159
+Viva Aerobus:San Francicso:San Francicso:826:35
+Air China:Toronto:Miami:1195:170
+Frontier:Fokváros:London:1245:153
+Czech Airlines:Fényeslitke:New York:97:43
+Lion Airlines:Bora-bora:Tokio:991:243
+Austrian:New York:Kék:591:152
+Gulf Air:Fokváros:Bora-bora:488:230
+TAAG:Kék:Budapest:811:4
+EL AL:Fokváros:Róma:1033:143
+Air Vanuatu:Rejkyawik:Rio de Janeiro:186:221
+Germanwings:New York:Camberra:1193:44
+KLM:Soul:Miami:505:151
+Royal Brunei:Soul:Fényeslitke:935:131
+Wizzair:Pátroha:London:835:171
+KLM:Alma-ata:Párizs:145:55
+Nordwind Airlines:New York:Ljubljana:560:146
+Air China:Budapest:Los Santos:852:230
+Sunwing:Los Santos:San Francicso:589:141
+Air Italy:Róma:Rio de Janeiro:340:201
+Aeroflot:Kék:Fényeslitke:386:173
+LATAM Brasil:Bora-bora:Toronto:964:100
+Korean Air:Róma:Tokio:635:10
+FlyOne:Bora-bora:Fokváros:314:44
+Porter:Fényeslitke:Toronto:373:206
+Sun Country:Toronto:Ljubljana:320:118
+CEBU Pacific Air:Miami:Párizs:1077:209
+Croatia Airlines:Soul:Fehérgyarmat:275:192
+Middle East Airlines:Kék:Rio de Janeiro:568:240
+Vietnam Airlines:Moszkva:London:282:191
+China Southern:Budapest:Budapest:516:220
+Virgin Australia:Kék:Los Angeles:287:127
+THAI:Rejkyawik:Bora-bora:108:203
+Philippine Airlines:London:Soul:641:175
+Sunwing:Miami:New White Lake City:95:121
+Norwegian Air Shuttle:Los Angeles:New White Lake City:1098:69
+American Airlines:Moszkva:Ljubljana:724:146
+Spring Airlines:New York:Moszkva:190:117
+Hainan Airlines:Rejkyawik:New York:1234:23
+Air Vanuatu:Rejkyawik:Budapest:617:82
+Air Austral:Fényeslitke:Budapest:520:20
+Jeju Air:Ljubljana:Párizs:531:148
+InterJet:Párizs:Miami:960:32
+Swoop:Róma:Camberra:928:226
+Aerolineas Argentinas:Fényeslitke:Rejkyawik:75:164
+Pakistan International Airlines:Miami:London:608:226
+United:Soul:Los Angeles:489:12
+Vueling Airlines:Fokváros:Pátroha:138:123
+Air Namibia:New White Lake City:Toronto:974:99
+Royal Brunei:Budapest:Fényeslitke:630:102
+UTair Aviation:Alma-ata:New White Lake City:146:195
+Ethiopian Airlines:Ljubljana:Los Santos:1014:61
+Dragonair:Róma:Pátroha:1105:155
+Dragonair:Tokio:Róma:921:98
+SWISS:Kék:Toronto:670:71
+FlyBE:Fényeslitke:Los Santos:1159:134
+Korean Air:Fehérgyarmat:Ljubljana:1081:222
+IndiGo Airlines:Rio de Janeiro:Fehérgyarmat:177:97
+Volaris:London:London:718:124
+Eurowings:Rio de Janeiro:Kék:75:238
+InterJet:Ljubljana:New York:761:24
+Pakistan International Airlines:Fokváros:Tokio:296:78
+SriLankan Airlines:Moszkva:Fényeslitke:154:156
+Aeroflot:Fehérgyarmat:New York:665:179
+Gol:Alma-ata:Toronto:444:192
+Egyptair:Los Angeles:Budapest:424:234
+Hong Kong Airlines:Los Angeles:Ljubljana:816:5
+LATAM Brasil:Toronto:Camberra:286:74
+Gol:Párizs:Soul:681:175
+Gol:Fokváros:Soul:116:9
+TACA:Fényeslitke:Párizs:1022:5
+Aeromexico:Miami:Moszkva:843:12
+Philippine Airlines:Rio de Janeiro:Soul:643:117
+EVA Air:Rejkyawik:New York:821:49
+LOT Polish Airlines:Soul:London:969:220
+Viva Aerobus:New White Lake City:Alma-ata:754:154
+Shanghai Airlines:Párizs:Miami:1131:202
+Wizzair:Párizs:Budapest:669:102
+Thomson:Ljubljana:Rejkyawik:291:105
+LATAM Chile:Los Angeles:Soul:558:59
+UTair Aviation:Soul:Rejkyawik:659:38
+Ethiopian Airlines:Róma:Rio de Janeiro:641:6
+SWISS:Alma-ata:Róma:1127:97
+Brussels Airlines:Alma-ata:New York:271:96
+EVA Air:Rejkyawik:Fokváros:1195:28
+Spring Japan:San Francicso:New York:169:41
+WestJet:Kék:Alma-ata:539:137
+Bangkok Airways:Los Santos:Ljubljana:497:246
+Allegiant:San Francicso:Fehérgyarmat:1247:197
+Aegean Airlines:Párizs:Fehérgyarmat:1064:222
+Spirit:Fokváros:Moszkva:592:37
+Jetstar:Toronto:Tokio:213:216
+Porter:Alma-ata:Los Angeles:493:122
+Air Vanuatu:Soul:San Francicso:825:156
+Lion Airlines:New White Lake City:Alma-ata:424:27
+Scoot Airlines:Fényeslitke:New White Lake City:1021:34
+Viva Aerobus:Róma:London:482:66
+Peach:Pátroha:Camberra:603:56
+Xiamen Airlines:Fehérgyarmat:Rio de Janeiro:1143:97
+Fiji Airways:Fehérgyarmat:Tokio:1163:89
+British Airways:Fényeslitke:Alma-ata:372:194
+Air Serbia:New White Lake City:Fokváros:625:151
+TACA:Los Angeles:Los Santos:349:215
+TAAG:Miami:Soul:822:79
+bmi regional:San Francicso:Los Angeles:176:29
+Ethiopian Airlines:Kék:Róma:1081:240
+Pegasus Airlines:Ljubljana:Pátroha:734:49
+Skylanes:Fehérgyarmat:Alma-ata:320:174
+LOT Polish Airlines:Budapest:Miami:449:31
+Thomas Cook Airlines:Rio de Janeiro:Los Santos:180:78
+Lion Airlines:Los Angeles:Rio de Janeiro:1216:235
+Vueling Airlines:London:Los Angeles:1233:121
+Kenya Airways:Camberra:London:1173:24
+Cathay Pacific:Tokio:Rio de Janeiro:856:177
+TACA:Párizs:Toronto:245:36
+WOW air:Budapest:Pátroha:688:119
+AirAsia X:Los Santos:Rejkyawik:1054:30
+Azerbaijan Hava Yollary:San Francicso:Fényeslitke:280:158
+Air Italy:San Francicso:Los Angeles:887:205
+Bangkok Airways:Soul:Párizs:907:75
+Fiji Airways:Róma:Rejkyawik:659:125
+FlyBE:Fényeslitke:Los Angeles:289:130
+Swoop:Ljubljana:Tokio:496:55
+Aeromexico:Kék:Pátroha:91:18
+ANA:San Francicso:Rejkyawik:838:17
+Vistara:Los Angeles:Ljubljana:894:62
+Saudia:Bora-bora:London:498:32
+Qatar Airways:Rejkyawik:New York:674:28
+Porter:Budapest:Ljubljana:61:235
+Malaysia Airlines:Fokváros:Ljubljana:349:46
+Emirates:Ljubljana:Róma:575:247
+Oman Air:Kék:Kék:417:116
+Vanilla Air:Soul:Bora-bora:705:210
+Porter:Camberra:Budapest:689:57
+Brussels Airlines:New White Lake City:Rio de Janeiro:665:53
+Air Serbia:Róma:Pátroha:322:63
+Aer Lingus:Rejkyawik:Bora-bora:76:27
+AirAsia X:Bora-bora:Alma-ata:769:186
+tigerair Australia:Los Santos:Rejkyawik:499:71
+Air Caraibes:Alma-ata:Budapest:935:153
+La Compagnie:Fényeslitke:New White Lake City:336:85
+Jeju Air:Miami:Soul:1192:64
+AirAsia:Ljubljana:Fokváros:314:19
+TAAG:Rio de Janeiro:Fényeslitke:514:191
+Pegasus Airlines:Los Santos:Párizs:428:126
+Air Europa:London:London:838:110
+Nok Air:Moszkva:Miami:670:209
+Ryanair:Toronto:Camberra:1091:133
+Azul:Kék:Los Santos:254:98
+Norwegian Air Shuttle:New York:Kék:855:148
+Malaysia Airlines:Ljubljana:New York:365:22
+Thomas Cook Airlines:Budapest:New York:560:198
+Air Europa:Alma-ata:Párizs:661:140
+Lufthansa:San Francicso:Alma-ata:225:80
+Etihad:Fényeslitke:New White Lake City:528:229
+KLM:Fokváros:Rejkyawik:1218:160
+WestJet:Fehérgyarmat:Soul:1108:179
+Turkish Airlines:Rejkyawik:Kék:577:81
+Porter:Pátroha:Alma-ata:416:128
+Royal Jordanian:Tokio:Toronto:1079:53
+Pegasus Airlines:Rejkyawik:Los Angeles:994:57
+TAAG:Fokváros:Moszkva:1150:65
+South African Airways:Ljubljana:Moszkva:274:152
+CEBU Pacific Air:New White Lake City:London:772:227
+Jeju Air:Rio de Janeiro:Bora-bora:509:76
+flydubai:Róma:Toronto:512:147
+tigerair Australia:Los Santos:London:861:11
+Transavia Airlines:New White Lake City:Róma:463:78
+Air India:Miami:Kék:122:19
+Viva Aerobus:New York:Budapest:280:58
+Finnair:San Francicso:Rio de Janeiro:259:65
+Pegasus Airlines:Soul:Bora-bora:1139:211
+SriLankan Airlines:Rejkyawik:Rejkyawik:119:27
+Middle East Airlines:Rejkyawik:Camberra:736:212
+Emirates:London:Miami:369:129
+Hainan Airlines:Soul:Toronto:776:151
+Wizzair:Róma:Budapest:410:170
+Azerbaijan Hava Yollary:Los Santos:Toronto:1070:208
+Qatar Airways:Kék:Kék:122:139
+Korean Air:Fehérgyarmat:Ljubljana:1201:102
+Hawaiian Airlines:Los Angeles:Budapest:1110:52
+Azerbaijan Hava Yollary:Rejkyawik:Los Santos:602:94
+Allegiant:Párizs:New York:574:190
+Frontier:Miami:Soul:605:246
+FlyOne:Moszkva:Fokváros:1155:152
+Scoot Airlines:Párizs:Fehérgyarmat:724:148
+UTair Aviation:Bora-bora:Miami:1259:248
+Ethiopian Airlines:Bora-bora:Moszkva:531:79
+WestJet:Los Angeles:Rio de Janeiro:95:168
+FlyOne:Toronto:Budapest:337:104
+Gol:Fényeslitke:Alma-ata:98:47
+Southwest:New White Lake City:Rejkyawik:689:215
+SriLankan Airlines:Fokváros:Fényeslitke:553:79
+Volotea:Los Angeles:Alma-ata:1091:128
+Korean Air:Budapest:Tokio:915:177
+Xiamen Airlines:Los Angeles:New York:184:111
+Emirates:Soul:Tokio:252:195
+Korean Air:Tokio:New White Lake City:342:229
+Jetstar:Toronto:Alma-ata:1154:110
+Gulf Air:Fényeslitke:London:447:7
+Transavia Airlines:Párizs:Tokio:868:207
+Aerolineas Argentinas:Miami:Ljubljana:694:210
+Iberia:Los Angeles:Soul:78:249
+Royal Air Maroc:New York:Fényeslitke:972:54
+TAP Portugal:Soul:Párizs:1142:88
+SAS:Fokváros:Moszkva:1118:154
+Azores Airlines:Ljubljana:Soul:661:113
+Pakistan International Airlines:Los Santos:Párizs:1038:79
+FlyBE:Camberra:Róma:822:24
+Fiji Airways:Los Angeles:London:984:35
+Croatia Airlines:New White Lake City:New York:869:21
+AirAsia X:Toronto:London:583:29
+Shanghai Airlines:Tokio:Bora-bora:548:83
+Thomson:Los Santos:Ljubljana:1089:209
+SriLankan Airlines:London:Miami:497:134
+Wizzair:Tokio:Miami:857:105
+La Compagnie:Ljubljana:Róma:308:31
+Spirit:New White Lake City:Fokváros:210:227
+Qantas:Alma-ata:Moszkva:606:187
+tigerair Australia:Kék:Los Angeles:819:208
+Gulf Air:New York:Miami:1217:248
+Aircalin:Moszkva:Miami:667:126
+Gulf Air:Alma-ata:Pátroha:1051:108
+TAP Portugal:Los Santos:Moszkva:912:70
+Viva Aerobus:Pátroha:Fokváros:849:141
+Azerbaijan Hava Yollary:New White Lake City:Fokváros:230:162
+Virgin Atlantic:Moszkva:New York:839:21
+Spring Japan:Tokio:San Francicso:537:180
+Alaska Airlines:Párizs:Rio de Janeiro:1259:67
+THAI:Miami:Pátroha:788:6
+Azores Airlines:Rejkyawik:Camberra:80:105
+Icelandair:New York:Róma:595:237
+Volotea:Budapest:Miami:1096:70
+CEBU Pacific Air:Pátroha:Rejkyawik:233:210
+Air Italy:Ljubljana:Budapest:721:82
+CEBU Pacific Air:New White Lake City:Párizs:552:79
+Air Tahiti Nui:London:Los Angeles:1258:242
+Air Serbia:Fényeslitke:Miami:101:18
+S7 Airlines:Fokváros:San Francicso:1230:232
+TAP Portugal:Kék:Tokio:664:7
+Air Canada:Párizs:San Francicso:204:213
+Delta:Los Santos:Camberra:884:89
+Jetstar:Fokváros:Róma:832:162
+bmi regional:Róma:San Francicso:289:93
+Air Serbia:Miami:Tokio:271:69
+Volaris:San Francicso:Párizs:1220:143
+Aircalin:Budapest:Bora-bora:841:76
+Oman Air:New White Lake City:Los Santos:574:185
+Hainan Airlines:Pátroha:Miami:560:106
+Emirates:Los Angeles:Alma-ata:689:82
+Air Canada:Róma:Rejkyawik:610:86
+Czech Airlines:Alma-ata:Fényeslitke:1043:154
+Porter:Toronto:Toronto:1161:100
+TUIfly:Pátroha:Párizs:827:67
+China Eastern:Los Angeles:Rio de Janeiro:1188:124
+British Airways:Miami:London:371:148
+Delta:Párizs:Párizs:512:11
+Croatia Airlines:Rejkyawik:Fehérgyarmat:279:88
+Edelweiss Air:Fehérgyarmat:Kék:496:160
+Qantas:Bora-bora:Fehérgyarmat:1038:248
+Air Tahiti Nui:Fokváros:Los Angeles:431:102
+LOT Polish Airlines:Fokváros:Los Angeles:1036:155
+Pakistan International Airlines:London:Los Santos:175:17
+China Southern:Los Santos:Camberra:876:235
+Volaris:Los Santos:Róma:378:125
+Azul:New York:San Francicso:611:173
+Pakistan International Airlines:Camberra:New White Lake City:973:92
+Azores Airlines:Róma:Los Santos:138:80
+Ryanair:Rejkyawik:Los Angeles:422:189
+Nordwind Airlines:New White Lake City:Toronto:603:41
+THAI:Fényeslitke:Tokio:238:147
+Middle East Airlines:Kék:Rio de Janeiro:973:246
+Air Europa:Miami:Rejkyawik:970:110
+SpiceJet:Budapest:New White Lake City:580:178
+Iberia:Camberra:Bora-bora:583:224
+Nordwind Airlines:Róma:San Francicso:1205:115
+Air Austral:Camberra:New York:433:190
+Garuda Indonesia:New White Lake City:Tokio:392:89
+Air New Zealand:Róma:San Francicso:271:103
+Spring Japan:Moszkva:Rejkyawik:746:26
+Viva Aerobus:Moszkva:Róma:526:243
+Skylanes:Bora-bora:Róma:1047:214
+Pegasus Airlines:Budapest:London:107:77
+Royal Air Maroc:Róma:London:157:147
+Southwest:London:New White Lake City:424:68
+Peach:Camberra:New White Lake City:287:147
+Ukraine International:Toronto:Rio de Janeiro:735:94
+Air Caraibes:Fokváros:Párizs:263:75
+Air Namibia:Pátroha:New White Lake City:1073:86
+Oman Air:Párizs:Camberra:976:202
+SAS:Kék:Rejkyawik:1202:141
+Royal Brunei:Moszkva:Fokváros:315:21
+flydubai:Tokio:Toronto:864:44
+Peach:Fényeslitke:Róma:963:240
+TACA:Fehérgyarmat:Kék:766:219
+FlyOne:London:Soul:946:144
+Spirit:Alma-ata:London:726:50
+Edelweiss Air:Los Angeles:Rio de Janeiro:488:169
+TUIfly:Tokio:Tokio:67:64
+Delta:Fehérgyarmat:Rejkyawik:508:240
+FlyBE:Rejkyawik:Ljubljana:584:134
+Volaris:Los Angeles:Párizs:283:227
+UTair Aviation:New York:Párizs:1229:139
+Air Canada:Tokio:Los Santos:1154:29
+Condor:Tokio:Pátroha:339:151
+Transavia Airlines:Moszkva:Rejkyawik:712:85
+Tunis Air:Miami:Róma:1042:28
+Brussels Airlines:Budapest:Fehérgyarmat:300:63
+Air France:Los Santos:Pátroha:801:115
+Aeroflot:Fokváros:Fehérgyarmat:765:210
+Philippine Airlines:Alma-ata:Miami:345:50
+Air Italy:Bora-bora:Ljubljana:680:171
+Allegiant:New York:Los Santos:406:218
+Finnair:Miami:New White Lake City:256:68
+China Southern:Pátroha:San Francicso:907:84
+Air France:Los Angeles:Párizs:1229:90
+Xiamen Airlines:Toronto:Rio de Janeiro:957:246
+WestJet:London:Párizs:469:86
+Air India Express:Párizs:San Francicso:1245:219
+Volaris:Rejkyawik:London:415:223
+Jeju Air:San Francicso:Rejkyawik:445:172
+Peach:Bora-bora:Tokio:369:135
+Egyptair:New White Lake City:Alma-ata:582:147
+Ethiopian Airlines:Rejkyawik:Kék:1215:124
+THAI:Moszkva:Fokváros:1165:170
+Aerolineas Argentinas:Toronto:Fényeslitke:1152:158
+China Airlines:Párizs:Soul:656:113
+Hainan Airlines:Róma:Los Angeles:481:220
+AirAsia X:Tokio:Camberra:153:73
+Egyptair:New White Lake City:Camberra:1222:189
+Edelweiss Air:Budapest:Los Angeles:405:247
+Jet Airways:New York:Miami:1229:203
+Tunis Air:New York:New York:1085:153
+CEBU Pacific Air:New White Lake City:Ljubljana:633:78
+Aerolineas Argentinas:Fényeslitke:Kék:293:165
+TUIfly:Moszkva:London:466:178
+Condor:London:Kék:762:151
+LOT Polish Airlines:London:Los Angeles:778:35
+Aegean Airlines:Alma-ata:Fehérgyarmat:278:156
+Scoot Airlines:Tokio:Pátroha:372:138
+LATAM Chile:New White Lake City:Moszkva:1027:240
+Ukraine International:Kék:Ljubljana:224:141
+Volaris:Toronto:Camberra:1159:172
+Air Transat:Budapest:Bora-bora:877:157
+Air India:London:Miami:487:149
+China Eastern:Fehérgyarmat:Rejkyawik:874:249
+Germanwings:Los Angeles:Los Santos:1063:74
+WOW air:Fokváros:Kék:265:141
+Virgin Australia:Rejkyawik:London:512:115
+Ryanair:New White Lake City:New White Lake City:783:103
+WestJet:Kék:Los Angeles:110:238
+Azul:Toronto:Camberra:448:202
+TAAG:Soul:Toronto:1101:61
+InterJet:Miami:San Francicso:188:104
+Peach:Rio de Janeiro:London:325:153
+Aeroflot:Bora-bora:Párizs:296:240
+United:Camberra:Toronto:673:80
+Kenya Airways:Kék:Soul:809:158
+Ukraine International:Rejkyawik:Los Santos:1112:70
+Air Transat:Rejkyawik:Fehérgyarmat:1008:89
+Brussels Airlines:Kék:Los Angeles:924:207
+Xiamen Airlines:Miami:Párizs:922:173
+LOT Polish Airlines:Róma:Budapest:988:160
+Norwegian Air Shuttle:New York:New White Lake City:424:189
+EVA Air:Bora-bora:Rio de Janeiro:347:110
+Royal Jordanian:Fokváros:Róma:766:110
+Turkish Airlines:Moszkva:Rio de Janeiro:1128:210
+Japan Airlines:Fényeslitke:London:754:151
+S7 Airlines:Pátroha:Los Angeles:257:159
+Gol:Los Angeles:London:1063:9
+Kenya Airways:Rio de Janeiro:Rejkyawik:210:154
+United:London:Moszkva:891:165
+THAI:New York:Ljubljana:1217:9
+Hawaiian Airlines:Rejkyawik:Los Angeles:1250:23
+Saudia:Los Santos:Rejkyawik:874:162
+South African Airways:Miami:Róma:225:20
+FlyBE:Camberra:New White Lake City:1154:12
+Ukraine International:Los Santos:Camberra:849:117
+SWISS:Párizs:Budapest:452:131
+Bangkok Airways:Fokváros:Fényeslitke:528:132
+China Eastern:Los Santos:Alma-ata:481:225
+Qantas:Los Santos:Rejkyawik:969:235
+Air Tahiti Nui:Toronto:Toronto:974:59
+Vietnam Airlines:Ljubljana:Camberra:1232:135
+Virgin Australia:Moszkva:Róma:560:164
+Vietnam Airlines:New York:Budapest:728:245
+Gulf Air:Ljubljana:Fényeslitke:1030:137
+Shanghai Airlines:Camberra:Párizs:428:18
+TACA:Fokváros:Camberra:177:21
+Norwegian Air Shuttle:Rio de Janeiro:Párizs:777:180
+Spring Airlines:Camberra:Toronto:752:226
+LATAM Brasil:Rejkyawik:Toronto:843:32
+TAP Portugal:Camberra:Párizs:116:33
+Air India Express:Fehérgyarmat:San Francicso:802:102
+American Airlines:Budapest:San Francicso:735:173
+Air Tahiti Nui:New White Lake City:Tokio:851:189
+Azul:Los Angeles:Rio de Janeiro:266:130
+LATAM Brasil:New White Lake City:Miami:1111:223
+Transavia Airlines:Pátroha:Kék:401:215
+Croatia Airlines:Toronto:Miami:854:85
+Spring Japan:San Francicso:Moszkva:1036:138
+Rossiya - Russian Airlines:Los Angeles:Miami:63:85
+Aerolineas Argentinas:Los Angeles:Soul:405:5
+SWISS:Camberra:New White Lake City:1149:46
+Jeju Air:Fokváros:Budapest:397:17
+Condor:Budapest:Alma-ata:877:127
+Shanghai Airlines:Alma-ata:Ljubljana:362:192
+Lufthansa:Fokváros:Bora-bora:675:131
+Qatar Airways:San Francicso:London:788:193
+Emirates:Alma-ata:Rejkyawik:1224:126
+Condor:Los Santos:Soul:643:86
+Silkair:New White Lake City:Los Angeles:761:31
+Nok Air:Fokváros:Toronto:840:225
+Transavia Airlines:Rejkyawik:Kék:138:222
+Icelandair:Fehérgyarmat:Ljubljana:444:206
+Japan Airlines:Toronto:Miami:648:23
+Ukraine International:Rio de Janeiro:New York:163:237
+Gulf Air:Kék:London:824:9
+French bee:London:Tokio:957:104
+Czech Airlines:Soul:Miami:887:49
+American Airlines:Moszkva:New York:532:50
+Pakistan International Airlines:Fokváros:Fokváros:850:5
+Royal Brunei:San Francicso:Rio de Janeiro:333:83
+United:Ljubljana:New White Lake City:1121:117
+EVA Air:Camberra:Bora-bora:870:33
+Jetstar:Párizs:Ljubljana:1031:145
+KLM:Pátroha:San Francicso:911:185
+Cathay Pacific:San Francicso:Pátroha:670:217
+Air China:Pátroha:New York:110:146
+Iberia:Rio de Janeiro:London:197:109
+Azerbaijan Hava Yollary:Moszkva:New White Lake City:1011:57
+flydubai:New White Lake City:Toronto:905:191
+Alitalia:Fehérgyarmat:Fehérgyarmat:440:195
+French bee:Los Angeles:Moszkva:620:121
+FlyOne:San Francicso:London:578:185
+SWISS:Pátroha:Fényeslitke:105:24
+UTair Aviation:Bora-bora:Los Angeles:81:205
+LATAM Brasil:Los Angeles:New York:163:40
+Singapore Airlines:Camberra:Tokio:935:55
+Jet Airways:Moszkva:Alma-ata:232:113
+Pakistan International Airlines:Camberra:New York:1180:137
+La Compagnie:Los Santos:New York:933:32
+UTair Aviation:Miami:Kék:278:211
+Vietnam Airlines:Los Angeles:Kék:508:222
+Norwegian Air Shuttle:New White Lake City:Rio de Janeiro:195:175
+Vietnam Airlines:Los Angeles:Camberra:911:193
+Viva Aerobus:Rio de Janeiro:Bora-bora:301:104
+Gol:Pátroha:Bora-bora:444:150
+Turkish Airlines:Kék:Ljubljana:957:137
+Qantas:Pátroha:New York:527:85
+Royal Jordanian:Kék:Alma-ata:1076:162
+Jetstar:New York:San Francicso:952:187
+FlyBE:Kék:Fehérgyarmat:380:241
+Austrian:Fehérgyarmat:New York:991:193
+Air Vanuatu:Kék:Párizs:636:141
+AirAsia X:Miami:Alma-ata:134:131
+Jet Airways:Párizs:Pátroha:1151:21
+Vanilla Air:Bora-bora:London:490:139
+China Southern:New White Lake City:London:650:96
+Frontier:Rejkyawik:Ljubljana:114:124
+WestJet:Párizs:Rejkyawik:310:7
+THAI:Camberra:Toronto:146:209
+Lufthansa:Alma-ata:London:451:89
+Hong Kong Airlines:Toronto:San Francicso:955:204
+THAI:Róma:Párizs:167:142
+Asiana:Tokio:Los Santos:743:224
+Spring Japan:Budapest:London:993:45
+Air Canada:Miami:Rejkyawik:133:19
+American Airlines:New York:Moszkva:943:109
+LATAM Brasil:Moszkva:Fokváros:754:130
+Lion Airlines:Tokio:Bora-bora:1190:87
+Spring Japan:Toronto:Alma-ata:632:39
+SriLankan Airlines:San Francicso:Rejkyawik:1232:16
+Vietnam Airlines:Rejkyawik:Budapest:314:126
+Germanwings:Fokváros:Rio de Janeiro:341:228
+Air Caraibes:Ljubljana:Los Angeles:935:116
+Iberia:Bora-bora:Alma-ata:922:183
+Korean Air:Soul:Los Santos:662:173
+WestJet:Los Angeles:Ljubljana:815:134
+Emirates:Pátroha:Moszkva:197:74
+Frontier:New White Lake City:San Francicso:1073:151
+Wizzair:Bora-bora:Moszkva:486:195
+Ukraine International:Párizs:Los Santos:818:185
+Skylanes:Alma-ata:Fehérgyarmat:202:144
+UTair Aviation:Los Santos:Miami:167:225
+Virgin Australia:Fokváros:Párizs:446:136
+Jet Airways:Pátroha:Róma:656:139
+Air Italy:Budapest:Fényeslitke:1163:65
+TAP Portugal:Rejkyawik:Ljubljana:800:97
+Bangkok Airways:Camberra:London:418:105
+Oman Air:Tokio:San Francicso:1183:92
+SAS:Bora-bora:Bora-bora:61:218
+Air Tahiti Nui:Alma-ata:Pátroha:549:132
+Royal Jordanian:Budapest:Soul:466:26
+Ukraine International:Miami:Soul:1070:11
+TAP Portugal:Párizs:New York:1072:135
+Qatar Airways:Fényeslitke:New White Lake City:203:99
+Shanghai Airlines:Rejkyawik:Pátroha:337:57
+La Compagnie:Tokio:Ljubljana:760:213
+Aer Lingus:New White Lake City:Camberra:267:15
+Air China:Miami:Róma:982:154
+Iberia:Tokio:Tokio:550:127
+Eurowings:Ljubljana:Tokio:142:179
+Azerbaijan Hava Yollary:New York:Tokio:933:205
+Eurowings:Kék:Fehérgyarmat:565:240
+Azerbaijan Hava Yollary:Soul:Párizs:100:58
+Spirit:Ljubljana:Párizs:136:130
+Aegean Airlines:Párizs:Rio de Janeiro:1152:37
+Garuda Indonesia:Fényeslitke:New White Lake City:214:112
+Icelandair:New York:Rejkyawik:1053:152
+Garuda Indonesia:Bora-bora:Párizs:355:40
+AtlasGlobal:New White Lake City:San Francicso:1167:153
+Rossiya - Russian Airlines:Camberra:Kék:609:151
+Jet Airways:New White Lake City:Róma:422:154
+Bangkok Airways:Pátroha:Ljubljana:122:11
+Rossiya - Russian Airlines:Ljubljana:Fehérgyarmat:313:166
+China Airlines:Moszkva:Alma-ata:462:12
+Fiji Airways:Budapest:Rejkyawik:757:110
+Regional Express:Soul:Fehérgyarmat:885:72
+Sun Country:Fokváros:Toronto:210:172
+Vanilla Air:Rio de Janeiro:Kék:493:194
+S7 Airlines:Soul:London:1172:92
+Azerbaijan Hava Yollary:Camberra:Alma-ata:757:248
+Swoop:Fehérgyarmat:Róma:908:212
+Edelweiss Air:New White Lake City:Miami:562:12
+LATAM Brasil:Párizs:Róma:537:193
+Copa Airlines:Párizs:Budapest:235:32
+WestJet:Pátroha:Bora-bora:554:94
+Porter:Rio de Janeiro:Alma-ata:254:171
+Air Caraibes:Los Angeles:Moszkva:1035:177
+Norwegian Air Shuttle:Tokio:New White Lake City:1236:116
+Malaysia Airlines:Budapest:Pátroha:546:18
+Gulf Air:Camberra:Rejkyawik:1190:35
+Germanwings:Tokio:Fényeslitke:466:214
+Czech Airlines:Rejkyawik:Róma:658:84
+Iberia:Rio de Janeiro:Ljubljana:992:231
+China Eastern:Camberra:Róma:1023:39
+Jet2:New York:Moszkva:732:193
+Aeromexico:New York:Bora-bora:762:55
+China Southern:Moszkva:Fokváros:834:202
+Shanghai Airlines:San Francicso:Camberra:621:78
+Norwegian Air Shuttle:Moszkva:Fényeslitke:1080:215
+Southwest:Soul:Los Angeles:101:118
+SpiceJet:Párizs:Soul:864:159
+Condor:Fényeslitke:Los Angeles:813:40
+Aircalin:Párizs:Los Angeles:308:7
+Volaris:New White Lake City:Moszkva:589:211
+Etihad:Fokváros:Soul:1151:20
+KLM:Toronto:Fokváros:575:143
+Air Namibia:Los Santos:Alma-ata:681:190
+LATAM Brasil:Moszkva:Moszkva:904:38
+Air Tahiti Nui:Toronto:Soul:436:95
+Frontier:Ljubljana:Párizs:995:166
+American Airlines:Fehérgyarmat:Soul:476:85
+Air Europa:Fényeslitke:Alma-ata:663:198
+Air India Express:Toronto:Camberra:540:220
+Copa Airlines:London:Kék:1226:224
+Singapore Airlines:Rio de Janeiro:Toronto:1204:169
+Garuda Indonesia:Fehérgyarmat:Alma-ata:1194:108
+Wizzair:Camberra:New White Lake City:1033:175
+Virgin Atlantic:Fényeslitke:San Francicso:276:191
+LATAM Brasil:Moszkva:Kék:320:228
+Aerolineas Argentinas:Fokváros:Kék:126:8
+Air Tahiti Nui:Róma:Fehérgyarmat:666:68
+TAAG:Párizs:Los Santos:724:141
+TAP Portugal:Fényeslitke:Moszkva:703:219
+Emirates:Rejkyawik:Los Angeles:1203:35
+Vistara:Bora-bora:Camberra:456:197
+LATAM Chile:Alma-ata:Los Santos:80:59
+Qatar Airways:Fényeslitke:Bora-bora:756:64
+Icelandair:Fényeslitke:Pátroha:485:238
+American Airlines:Toronto:Alma-ata:743:16
+Spring Airlines:Kék:Camberra:494:34
+Emirates:Fokváros:Budapest:1209:234
+IndiGo Airlines:San Francicso:Los Santos:659:242
+Jet Airways:Toronto:Budapest:1100:187
+Air Vanuatu:Róma:Kék:1157:25
+Aeroflot:Rio de Janeiro:New York:647:225
+Air Transat:Toronto:Fényeslitke:927:195
+Jetstar:Rejkyawik:Rio de Janeiro:775:39
+Air Italy:Párizs:San Francicso:1075:173
+Austrian:Rio de Janeiro:Fehérgyarmat:1005:200
+Austrian:Soul:Bora-bora:867:145
+FlyOne:Róma:Fehérgyarmat:492:32
+Regional Express:Alma-ata:Párizs:316:202
+Fiji Airways:Soul:Pátroha:374:213
+THAI:Moszkva:New York:761:98
+Thomson:Fényeslitke:Fokváros:1001:70
+S7 Airlines:Fényeslitke:Tokio:1155:67
+Transavia Airlines:Bora-bora:Párizs:666:182
+Aer Lingus:Kék:Toronto:235:234
+LOT Polish Airlines:New White Lake City:Camberra:289:157
+Shanghai Airlines:Fokváros:Rejkyawik:106:15
+Singapore Airlines:Alma-ata:Moszkva:357:154
+Skylanes:Toronto:Fehérgyarmat:278:98
+Swoop:Fokváros:Bora-bora:119:73
+American Airlines:Fokváros:Ljubljana:772:67
+Vanilla Air:New White Lake City:Fehérgyarmat:910:96
+Finnair:Soul:Toronto:1067:190
+Middle East Airlines:Ljubljana:San Francicso:440:111
+Aeromexico:Pátroha:Los Santos:146:81
+Swoop:Róma:Fényeslitke:326:97
+Air Austral:Pátroha:Camberra:1214:24
+CEBU Pacific Air:Rejkyawik:New White Lake City:1150:135
+IndiGo Airlines:Párizs:Róma:332:148
+American Airlines:New White Lake City:Rejkyawik:618:125
+Royal Jordanian:Rejkyawik:Soul:167:188
+Germanwings:New White Lake City:London:749:134
+Lufthansa:Kék:Bora-bora:325:198
+Air Vanuatu:Toronto:Alma-ata:646:239
+FlyBE:Pátroha:London:1103:90
+Air Italy:Rejkyawik:Alma-ata:525:237
+InterJet:Toronto:Kék:609:181
+Volaris:Soul:Bora-bora:1256:238
+Turkish Airlines:Los Angeles:Rio de Janeiro:887:227
+Singapore Airlines:Kék:New York:1155:239
+Eurowings:New White Lake City:New York:767:48
+Sun Country:Los Santos:Bora-bora:82:43
+FlyBE:Budapest:Camberra:104:169
+Aircalin:Los Santos:Kék:1069:178
+TAAG:Rio de Janeiro:Róma:789:196
+LATAM Chile:Miami:Budapest:264:36
+Lion Airlines:Pátroha:New York:553:62
+ANA:Rejkyawik:Fehérgyarmat:759:7
+Royal Brunei:Camberra:Pátroha:593:131
+Thomas Cook Airlines:London:Tokio:317:248
+SpiceJet:Bora-bora:Miami:790:233
+Jet Airways:Pátroha:Los Angeles:1046:196
+Viva Aerobus:Fényeslitke:Párizs:319:149
+Japan Airlines:Soul:Bora-bora:650:227
+Kenya Airways:San Francicso:Los Santos:1109:132
+Allegiant:San Francicso:Los Santos:715:179
+Aer Lingus:Ljubljana:Los Santos:174:13
+China Airlines:New York:Fehérgyarmat:210:192
+THAI:Camberra:Bora-bora:875:166
+Aircalin:London:Los Santos:555:161
+tigerair Australia:Tokio:Bora-bora:1019:15
+Lion Airlines:Fényeslitke:Ljubljana:738:159
+Air Transat:Ljubljana:Toronto:1115:18
+Gulf Air:Rejkyawik:Moszkva:809:237
+Vietnam Airlines:San Francicso:Rejkyawik:1091:185
+Bangkok Airways:Pátroha:Los Santos:298:241
+Emirates:Budapest:Bora-bora:791:202
+Vistara:Alma-ata:Párizs:827:235
+Shanghai Airlines:London:Alma-ata:221:113
+SpiceJet:Kék:Moszkva:322:10
+Singapore Airlines:Kék:Róma:727:128
+American Airlines:Rejkyawik:Soul:259:93
+Korean Air:Rejkyawik:Róma:717:35
+LATAM Chile:San Francicso:New White Lake City:1143:145
+Etihad:Moszkva:New York:262:59
+Finnair:San Francicso:Alma-ata:1122:247
+Brussels Airlines:London:Tokio:795:135
+Garuda Indonesia:Toronto:Soul:978:193
+Jeju Air:New York:Kék:1208:55
+Condor:San Francicso:Pátroha:342:196
+Fiji Airways:Budapest:Ljubljana:231:96
+Virgin Atlantic:Alma-ata:Bora-bora:1008:18
+Edelweiss Air:San Francicso:Soul:402:135
+Germanwings:Fehérgyarmat:San Francicso:580:68
+Kenya Airways:Fényeslitke:New White Lake City:621:105
+Air Europa:Fehérgyarmat:Soul:165:49
+South African Airways:Párizs:Miami:1192:172
+Nok Air:Rio de Janeiro:Kék:788:154
+La Compagnie:Budapest:Soul:762:201
+InterJet:Budapest:Fokváros:1088:86
+Alaska Airlines:Alma-ata:New York:489:234
+FlyOne:New White Lake City:Toronto:709:86
+Air Europa:Pátroha:Tokio:1173:145
+Air Tahiti Nui:Moszkva:Pátroha:691:103
+Aircalin:Fehérgyarmat:Moszkva:651:36
+Sunwing:Moszkva:New White Lake City:161:187
+Xiamen Airlines:Toronto:Rio de Janeiro:1097:91
+WestJet:Fehérgyarmat:Toronto:359:87
+Swoop:Bora-bora:Tokio:524:52
+Aegean Airlines:Fokváros:Fokváros:883:234
+Rossiya - Russian Airlines:Los Santos:Rejkyawik:769:183
+Dragonair:New York:New York:967:209
+Delta:Fokváros:Bora-bora:985:38
+Brussels Airlines:Fényeslitke:Kék:1134:189
+TAAG:Camberra:Los Angeles:1048:184
+Pakistan International Airlines:Fényeslitke:Moszkva:878:27
+EL AL:Rejkyawik:Fényeslitke:546:235
+Middle East Airlines:San Francicso:Budapest:1115:12
+Thomson:Fokváros:Rio de Janeiro:753:43
+easyJet:Toronto:Rio de Janeiro:209:205
+Edelweiss Air:Budapest:Los Santos:790:236
+AirAsia:London:Toronto:311:104
+Air Tahiti Nui:Rejkyawik:Los Angeles:484:12
+Air Tahiti Nui:Róma:Toronto:204:89
+La Compagnie:Fényeslitke:Róma:1201:196
+Icelandair:Fokváros:Moszkva:292:41
+Royal Jordanian:Kék:New York:368:202
+Air India:Moszkva:Miami:241:206
+S7 Airlines:Bora-bora:Ljubljana:320:232
+Sun Country:Fényeslitke:Camberra:93:221
+Scoot Airlines:Róma:Fokváros:1162:72
+Korean Air:Rio de Janeiro:Fokváros:760:35
+FlyOne:Alma-ata:Rio de Janeiro:740:43
+TAAG:Ljubljana:Alma-ata:1138:81
+Egyptair:Bora-bora:Kék:787:65
+TACA:Toronto:Budapest:233:152
+Copa Airlines:Miami:Rejkyawik:395:58
+Viva Aerobus:Pátroha:Kék:1222:30
+Air Tahiti Nui:New White Lake City:Los Santos:741:27
+Ethiopian Airlines:Los Santos:Toronto:224:235
+Regional Express:Los Angeles:Ljubljana:742:192
+Japan Airlines:Ljubljana:Fehérgyarmat:1071:78
+Skylanes:New White Lake City:Rio de Janeiro:643:93
+WestJet:Soul:New White Lake City:240:10
+LOT Polish Airlines:Rejkyawik:Camberra:979:150
+Turkish Airlines:New York:Fehérgyarmat:933:47
+UTair Aviation:Soul:Miami:1109:119
+China Southern:Tokio:Fényeslitke:539:72
+Aerolineas Argentinas:Tokio:Párizs:734:233
+Ryanair:Soul:Fokváros:1247:41
+ANA:Budapest:Soul:552:80
+tigerair Australia:Tokio:Miami:876:168
+bmi regional:Camberra:Camberra:178:235
+Korean Air:Fehérgyarmat:Moszkva:322:191
+Aegean Airlines:Pátroha:Pátroha:624:80
+Air Namibia:Kék:Moszkva:265:199
+Bangkok Airways:Budapest:Camberra:617:114
+LOT Polish Airlines:New York:Soul:341:32
+Jet Airways:Rio de Janeiro:Camberra:756:17
+Jetstar:Los Santos:Párizs:1173:73
+SriLankan Airlines:Rejkyawik:Rejkyawik:674:30
+Jet Airways:Rio de Janeiro:Alma-ata:865:219
+China Eastern:Fehérgyarmat:Soul:187:55
+Peach:Ljubljana:Párizs:1245:65
+Rossiya - Russian Airlines:Pátroha:Rejkyawik:1256:155
+Turkish Airlines:Los Santos:Fokváros:1159:97
+Korean Air:Moszkva:Bora-bora:370:176
+TAP Portugal:Fényeslitke:Alma-ata:591:190
+Thomas Cook Airlines:Fehérgyarmat:Moszkva:952:233
+FlyBE:Camberra:Párizs:313:145
+Bangkok Airways:Fényeslitke:Rio de Janeiro:550:187
+Cathay Pacific:Ljubljana:Fényeslitke:905:28
+Peach:Rio de Janeiro:Toronto:1141:125
+Hong Kong Airlines:Bora-bora:Camberra:842:97
+Turkish Airlines:New White Lake City:Pátroha:985:49
+Jetstar:Los Angeles:Camberra:600:46
+Azul:San Francicso:Budapest:539:140
+Icelandair:Soul:London:874:81
+China Southern:Bora-bora:London:975:24
+TAAG:Fehérgyarmat:Rio de Janeiro:563:89
+Shanghai Airlines:Fokváros:Toronto:497:177
+Alitalia:Pátroha:Tokio:537:137
+Spring Japan:Rio de Janeiro:San Francicso:886:74
+Air Vanuatu:Rejkyawik:New York:401:21
+TACA:Tokio:Miami:806:134
+Air Namibia:Miami:Rio de Janeiro:921:27
+Bangkok Airways:Rio de Janeiro:New White Lake City:1256:213
+Vueling Airlines:New White Lake City:Budapest:474:241
+THAI:New White Lake City:Rejkyawik:527:52
+Etihad:Los Angeles:Rejkyawik:1117:152
+Egyptair:Miami:New White Lake City:1252:223
+S7 Airlines:Bora-bora:Budapest:833:24
+La Compagnie:Kék:Los Angeles:1153:68
+InterJet:Toronto:Alma-ata:533:163
+Frontier:London:Pátroha:1013:99
+Vanilla Air:Los Angeles:New White Lake City:585:35
+Cathay Pacific:New White Lake City:Fokváros:181:219
+Iberia:Toronto:Bora-bora:1007:14
+Singapore Airlines:Bora-bora:Camberra:397:225
+Allegiant:San Francicso:New York:807:111
+SriLankan Airlines:Camberra:Toronto:324:189
+Air China:Los Santos:Fényeslitke:1109:52
+Fiji Airways:Ljubljana:Budapest:65:249
+Germanwings:Budapest:Alma-ata:1110:241
+LATAM Chile:Los Santos:Kék:327:242
+Middle East Airlines:New White Lake City:New York:511:53
+SpiceJet:Alma-ata:Budapest:407:108
+Air China:Fényeslitke:London:922:29
+Aeroflot:New White Lake City:San Francicso:890:181
+Air France:Fényeslitke:Rejkyawik:1168:171
+American Airlines:New York:Bora-bora:401:186
+Lion Airlines:Tokio:Camberra:922:139
+AtlasGlobal:Pátroha:Kék:320:136
+Skylanes:Fehérgyarmat:Alma-ata:491:9
+Azerbaijan Hava Yollary:Pátroha:Bora-bora:444:4
+Oman Air:Los Santos:Los Santos:404:135
+British Airways:Soul:Toronto:821:147
+Germanwings:Miami:Róma:356:95
+Middle East Airlines:Alma-ata:Alma-ata:953:216
+Austrian:New White Lake City:New White Lake City:459:115
+WOW air:Tokio:Miami:1049:140
+Air India Express:Fényeslitke:London:388:175
+bmi regional:Róma:Soul:467:237
+Czech Airlines:Alma-ata:Moszkva:231:64
+AtlasGlobal:Párizs:Alma-ata:804:214
+Air Caraibes:Camberra:Miami:1200:79
+Xiamen Airlines:Alma-ata:Róma:688:234
+Oman Air:Kék:Toronto:546:249
+IndiGo Airlines:Budapest:Alma-ata:1247:89
+Sun Country:New York:San Francicso:854:117
+Air Namibia:Toronto:Fehérgyarmat:1046:57
+Tunis Air:Toronto:Párizs:375:185
+UTair Aviation:Toronto:Rio de Janeiro:1020:224
+Southwest:Kék:London:806:242
+Emirates:Los Angeles:Miami:623:76
+Pakistan International Airlines:Fehérgyarmat:Róma:820:4
+TACA:Fokváros:Miami:556:117
+bmi regional:Tokio:Los Angeles:962:103
+Avianca:Alma-ata:Toronto:809:83
+Alitalia:Los Angeles:Kék:1017:120
+Middle East Airlines:Fokváros:Kék:1039:47
+Air India Express:Ljubljana:Róma:1053:32
+Thomson:Los Angeles:New York:479:99
+WestJet:New White Lake City:Bora-bora:579:198
+Gol:Kék:Miami:328:44
+South African Airways:London:Los Angeles:675:23
+Southwest:Ljubljana:Fokváros:603:29
+Middle East Airlines:Fényeslitke:Miami:1089:238
+China Airlines:New White Lake City:Ljubljana:1149:106
+WestJet:Fehérgyarmat:Moszkva:83:192
+Egyptair:Soul:San Francicso:385:13
+Tunis Air:Róma:Camberra:325:145
+SpiceJet:Rio de Janeiro:Budapest:645:34
+Shanghai Airlines:Kék:Alma-ata:349:41
+IndiGo Airlines:Soul:New White Lake City:919:131
+Qantas:San Francicso:London:984:11
+InterJet:New York:London:168:65
+Philippine Airlines:Los Angeles:Toronto:226:152
+SWISS:Budapest:Tokio:337:202
+Egyptair:Camberra:Miami:224:159
+Volaris:Rejkyawik:Rejkyawik:754:15
+Southwest:Alma-ata:New White Lake City:130:126
+Vueling Airlines:Rio de Janeiro:Kék:1043:178
+JetBlue:Budapest:Miami:982:22
+Azul:Pátroha:Los Santos:672:87
+Xiamen Airlines:London:Miami:574:114
+LATAM Brasil:San Francicso:Los Santos:1235:226
+WestJet:Los Santos:Róma:368:213
+Air France:San Francicso:Los Santos:796:72
+Regional Express:San Francicso:Rio de Janeiro:1236:115
+Tunis Air:Fokváros:Tokio:296:243
+easyJet:New York:Bora-bora:447:155
+flydubai:Camberra:Fényeslitke:466:10
+Air Canada:Rio de Janeiro:San Francicso:333:127
+Air Serbia:Miami:Párizs:794:110
+American Airlines:Fényeslitke:Miami:838:121
+American Airlines:San Francicso:Fényeslitke:613:162
+Brussels Airlines:Róma:Budapest:590:26
+WestJet:Los Santos:Rejkyawik:825:109
+Iberia:Kék:Róma:736:128
+Air Canada:Budapest:New White Lake City:1052:249
+Skylanes:Alma-ata:Róma:977:117
+Air Tahiti Nui:Pátroha:Párizs:748:199
+Emirates:New York:Pátroha:1075:72
+South African Airways:Tokio:Toronto:120:17
+KLM:Párizs:Toronto:566:186
+Germanwings:Moszkva:Alma-ata:906:134
+Ethiopian Airlines:Párizs:San Francicso:677:216
+THAI:Ljubljana:Los Santos:510:127
+Turkish Airlines:Fényeslitke:Rejkyawik:315:197
+China Eastern:Kék:Moszkva:66:140
+Pakistan International Airlines:Rio de Janeiro:Los Angeles:746:91
+TACA:Budapest:Alma-ata:1241:158
+Copa Airlines:Ljubljana:Rejkyawik:745:44
+Fiji Airways:Pátroha:Miami:406:163
+Lufthansa:London:Ljubljana:149:53
+Norwegian Air Shuttle:Rio de Janeiro:Fokváros:941:38
+Thomas Cook Airlines:Budapest:Fehérgyarmat:718:179
+China Southern:Pátroha:Soul:767:58
+Oman Air:Fényeslitke:Tokio:1013:81
+Aegean Airlines:New White Lake City:Los Angeles:867:86
+Royal Air Maroc:Toronto:Pátroha:1236:18
+Emirates:Fokváros:Los Angeles:798:108
+Qantas:Miami:Pátroha:1240:154
+tigerair Australia:Los Angeles:Fehérgyarmat:908:65
+Qatar Airways:Los Santos:Pátroha:1208:186
+Transavia Airlines:Fokváros:Párizs:475:148
+Peach:Budapest:Moszkva:598:161
+AtlasGlobal:Bora-bora:Bora-bora:655:135
+Royal Brunei:Tokio:Miami:637:210
+Aegean Airlines:New White Lake City:Kék:348:164
+Malaysia Airlines:Fokváros:Fokváros:294:208
+Saudia:Bora-bora:Bora-bora:1198:91
+KLM:Párizs:Ljubljana:1038:177
+Fiji Airways:London:London:100:167
+Sun Country:New White Lake City:Ljubljana:545:85
+Viva Aerobus:Camberra:Rejkyawik:924:190
+KLM:Róma:Párizs:822:201
+LATAM Chile:Róma:Toronto:1070:192
+Wizzair:New White Lake City:Kék:532:140
+Porter:Fehérgyarmat:Toronto:959:78
+Royal Jordanian:Los Santos:Ljubljana:695:179
+Allegiant:London:London:171:91
+Tunis Air:New York:Miami:671:66
+Jeju Air:Bora-bora:Budapest:261:163
+Air Serbia:Fehérgyarmat:Fokváros:1012:55
+LOT Polish Airlines:Camberra:Los Angeles:1091:87
+Jet Airways:Miami:Rejkyawik:773:118
+Spirit:Budapest:Rejkyawik:1137:3
+Fiji Airways:Soul:Rejkyawik:939:124
+Xiamen Airlines:Los Angeles:Budapest:424:94
+Pegasus Airlines:Pátroha:Rejkyawik:1022:183
+Singapore Airlines:Miami:Los Angeles:1094:7
+Dragonair:Párizs:Camberra:1114:223
+Air New Zealand:Fehérgyarmat:Kék:390:21
+Spring Airlines:Párizs:Budapest:104:159
+Vueling Airlines:Fehérgyarmat:Miami:1245:211
+AtlasGlobal:San Francicso:Alma-ata:808:241
+EL AL:Moszkva:Miami:760:12
+Alaska Airlines:San Francicso:New White Lake City:307:78
+Alaska Airlines:Ljubljana:Los Santos:248:74
+Swoop:Ljubljana:Budapest:994:68
+Germanwings:Fokváros:Los Angeles:177:55
+British Airways:Camberra:New White Lake City:1064:96
+LATAM Brasil:Toronto:Moszkva:1014:78
+British Airways:Fokváros:Miami:606:19
+Thomson:Moszkva:Rio de Janeiro:787:15
+Iberia:Los Santos:Budapest:427:187
+Aircalin:New York:Camberra:147:213
+Jetstar:Alma-ata:Kék:667:15
+Swoop:Los Angeles:Moszkva:471:91
+Brussels Airlines:Moszkva:Párizs:174:196
+TAAG:Camberra:Bora-bora:746:71
+Singapore Airlines:Párizs:Rio de Janeiro:608:44
+TACA:Rio de Janeiro:Camberra:242:64
+Etihad:Los Angeles:Pátroha:98:172
+FlyBE:Los Santos:Camberra:1056:32
+SAS:San Francicso:Soul:667:9
+WestJet:Los Santos:New York:729:39
+S7 Airlines:Miami:Rejkyawik:561:88
+Ethiopian Airlines:Kék:New White Lake City:525:16
+Aegean Airlines:Párizs:Kék:890:147
+Aircalin:Los Angeles:San Francicso:526:3
+AtlasGlobal:Los Santos:Toronto:448:116
+ANA:Fényeslitke:Los Angeles:1058:66
+UTair Aviation:Toronto:Camberra:976:125
+Alitalia:Párizs:Alma-ata:305:58
+Aeromexico:Ljubljana:New White Lake City:143:129
+TAAG:Fehérgyarmat:Ljubljana:1092:42
+UTair Aviation:Ljubljana:Tokio:828:8
+Air Tahiti Nui:Los Santos:Fényeslitke:645:203
+Air Canada:Toronto:Miami:211:25
+Lufthansa:Rio de Janeiro:Soul:727:228
+Shanghai Airlines:New White Lake City:Fényeslitke:784:120
+China Airlines:Budapest:Bora-bora:583:119
+TACA:London:Camberra:299:24
+Allegiant:London:Róma:1154:87
+JetBlue:New White Lake City:Soul:663:248
+flydubai:Rejkyawik:Kék:376:37
+SpiceJet:Pátroha:Los Santos:401:115
+Hawaiian Airlines:Toronto:London:220:106
+bmi regional:Moszkva:Fehérgyarmat:460:169
+Austrian:New York:Los Angeles:149:129
+Austrian:Róma:Budapest:1091:190
+Silkair:Róma:San Francicso:539:111
+Asiana:Rejkyawik:Budapest:686:125
+Kenya Airways:Alma-ata:Camberra:969:167
+Kenya Airways:San Francicso:Ljubljana:261:4
+American Airlines:Toronto:Ljubljana:734:70
+Peach:New York:Camberra:189:186
+China Airlines:London:Soul:1076:200
+Aegean Airlines:Camberra:Rejkyawik:979:54
+Czech Airlines:Bora-bora:Moszkva:938:239
+EL AL:New White Lake City:Budapest:1036:132
+Volaris:Róma:Los Santos:1194:103
+Thomson:Budapest:Fényeslitke:201:181
+Middle East Airlines:Párizs:San Francicso:1042:220
+Germanwings:London:Fényeslitke:872:128
+Royal Air Maroc:London:London:260:242
+TAAG:Miami:Rio de Janeiro:74:147
+Spring Airlines:Soul:Camberra:1080:143
+Air Caraibes:Fokváros:Soul:662:52
+S7 Airlines:Párizs:Ljubljana:1239:110
+Lufthansa:New York:Fokváros:112:25
+Air New Zealand:London:New York:489:216
+Azul:Rio de Janeiro:Párizs:1150:3
+Bangkok Airways:Alma-ata:Moszkva:90:42
+Hong Kong Airlines:Miami:London:284:68
+Aerolineas Argentinas:Róma:Pátroha:262:212
+Royal Air Maroc:Miami:Kék:247:146
+Vistara:New White Lake City:Camberra:884:35
+Vanilla Air:New White Lake City:Rio de Janeiro:958:59
+Alitalia:Ljubljana:New York:918:108
+Ryanair:Moszkva:Los Santos:319:155
+Jet2:Toronto:New White Lake City:997:122
+TACA:Ljubljana:Bora-bora:805:53
+Azul:Tokio:Kék:481:241
+KLM:San Francicso:London:1043:106
+Wizzair:Miami:Párizs:249:48
+Rossiya - Russian Airlines:Fehérgyarmat:Fényeslitke:1038:142
+Air Austral:Miami:Pátroha:337:146
+TAAG:Fokváros:Miami:424:166
+Spring Japan:Fokváros:Ljubljana:1151:232
+American Airlines:London:Fehérgyarmat:884:87
+Lufthansa:Camberra:New White Lake City:92:47
+American Airlines:New York:New York:214:123
+Royal Jordanian:Moszkva:Toronto:927:199
+French bee:Ljubljana:Moszkva:234:164
+Silkair:Los Angeles:San Francicso:186:51
+Virgin Atlantic:Fokváros:Los Angeles:1099:24
+WestJet:Fényeslitke:New York:66:77
+Gulf Air:Pátroha:Los Santos:537:195
+KLM:Camberra:Párizs:1048:78
+South African Airways:New York:Bora-bora:437:52
+Delta:London:Los Angeles:826:200
+South African Airways:New York:Soul:615:244
+Virgin Atlantic:Camberra:Rio de Janeiro:418:54
+Etihad:Kék:Toronto:223:75
+Azul:Soul:Camberra:775:6
+LOT Polish Airlines:Fokváros:San Francicso:935:186
+Czech Airlines:London:Los Angeles:429:130
+Sun Country:Los Angeles:New York:158:157
+Ukraine International:Fehérgyarmat:London:314:168
+Pakistan International Airlines:Soul:Toronto:529:218
+Ryanair:Moszkva:Párizs:1256:122
+Wizzair:London:Fehérgyarmat:565:46
+Lion Airlines:Los Angeles:Bora-bora:728:208
+Ukraine International:Camberra:Toronto:532:145
+Volaris:New York:New White Lake City:927:47
+Virgin Australia:Fényeslitke:Rio de Janeiro:853:42
+Copa Airlines:Miami:Los Angeles:389:140
+S7 Airlines:Los Santos:Alma-ata:1153:237
+Germanwings:Fehérgyarmat:Ljubljana:823:16
+IndiGo Airlines:Miami:Budapest:107:207
+Brussels Airlines:Soul:Fehérgyarmat:283:216
+TACA:Camberra:New York:71:57
+Air India:Rio de Janeiro:Moszkva:796:142
+Ryanair:Soul:Rio de Janeiro:691:115
+Air Canada:Camberra:Toronto:285:227
+Korean Air:New York:Tokio:416:146
+Ukraine International:Kék:Miami:930:208
+French bee:Alma-ata:New York:392:153
+Peach:Los Angeles:New White Lake City:354:114
+THAI:Pátroha:Los Santos:1119:233
+Peach:Tokio:Bora-bora:927:150
+Japan Airlines:Tokio:Róma:747:89
+Royal Jordanian:Alma-ata:Fényeslitke:1016:81
+Austrian:Camberra:Soul:1084:92
+Porter:Miami:Los Angeles:1213:10
+French bee:Alma-ata:Párizs:393:122
+Alaska Airlines:Tokio:Ljubljana:656:179
+Aer Lingus:Fokváros:Toronto:1084:69
+Thomson:Fehérgyarmat:New White Lake City:958:14
+Air Serbia:Kék:Alma-ata:969:225
+Peach:Camberra:New White Lake City:78:136
+Asiana:Budapest:Párizs:116:160
+Air Namibia:Ljubljana:Róma:490:194
+Aer Lingus:Kék:Róma:71:200
+French bee:Los Santos:Soul:742:218
+United:Los Angeles:New York:1153:127
+Air China:Camberra:Tokio:1081:203
+LATAM Brasil:Moszkva:Kék:637:196
+Aer Lingus:Miami:Fényeslitke:1216:236
+China Airlines:Tokio:Soul:1075:117
